@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 import time
 import os
 import selenium.webdriver
+import sys
 
 chrome_options = Options()
 
@@ -21,17 +22,25 @@ options = [
 ]
 for option in options:
     chrome_options.add_argument(option)
+    
+origin = sys.argv[1]
+destin = sys.argv[2]
+trDate = sys.argv[3]
+adults = sys.argv[4]
+children = sys.argv[5]
+premium = sys.argv[6]
 
 # Create the directory if it doesn't exist
 CSV_DIR = "flight_datasets"
 if not os.path.exists(CSV_DIR):
     os.makedirs(CSV_DIR)
 
-CSV_PATH = os.path.join(CSV_DIR, "flight_data_CASA_Rome.csv")
+CSV_PATH = os.path.join(CSV_DIR, f"flight_data_{origin}_{destin}_{trDate.replace('/', '_')}.csv")
 
 driver = selenium.webdriver.Chrome(options=chrome_options)
+baseDataUrl = f"https://www.makemytrip.com/flight/search?itinerary={origin}-{destin}-{trDate}&tripType=O&paxType=A-{adults}_C-{children}_I-0&intl=true&cabinClass={premium}"
 
-driver.get("https://www.makemytrip.com/flight/search?itinerary=CAS-ROM-30/11/2023&tripType=O&paxType=A-1_C-0_I-0&intl=true&cabinClass=E&ccde=IN&lang=eng")
+driver.get(baseDataUrl)
 time.sleep(25)
 
 COUNT = 50

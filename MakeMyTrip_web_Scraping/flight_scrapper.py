@@ -22,7 +22,7 @@ options = [
 ]
 for option in options:
     chrome_options.add_argument(option)
-    
+
 origin = sys.argv[1]
 destin = sys.argv[2]
 trDate = sys.argv[3]
@@ -43,7 +43,13 @@ baseDataUrl = f"https://www.makemytrip.com/flight/search?itinerary={origin}-{des
 driver.get(baseDataUrl)
 time.sleep(25)
 
-COUNT = 50
+COUNT = len(driver.find_elements(By.XPATH, '//*[@id="listing-id"]/div/div[2]/div/div'))
+
+# Ajouter les noms des colonnes
+header = ["Name", "Flight Code", "Departure City", "Departure Time", "Arrival City", "Arrival Time", "Duration", "Price"]
+with open(CSV_PATH, 'a', newline='', encoding="utf-8") as file:
+    writer = csv.writer(file)
+    writer.writerow(header)
 
 for i in range(1, COUNT + 1):
     fname, fcode, depcity, deptime, arrcity, arrtime, duration, price = "", "", "", "", "", "", "", ""

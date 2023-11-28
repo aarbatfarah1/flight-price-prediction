@@ -1,362 +1,1077 @@
 Airline,Source,Destination,Duration,stops,class,depature time,arrival time,Price,Date
-Transavia France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,AED 525,2023-12-04
-TAP Portugal,CMN,PAR,9h 20m,1 stop,economy,12:20,21:40,AED 324,2023-12-04
-Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:10,11:05,AED 592,2023-12-04
-Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,18:30,21:25,AED 605,2023-12-04
-Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,14:10,17:05,AED 659,2023-12-04
-Royal Air Maroc,CMN,PAR,3h 00m,direct,economy,13:25,16:25,AED 678,2023-12-04
-Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,12:20,15:10,AED 939,2023-12-04
-Air France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,"AED 1,009",2023-12-04
-Air France,CMN,PAR,3h 15m,direct,economy,08:10,11:25,"AED 1,067",2023-12-04
-TAP Portugal,CMN,PAR,10h 40m,1 stop,economy,12:20,23:00,AED 387,2023-12-04
-Air France,CMN,PAR,3h 15m,direct,economy,16:35,19:50,"AED 1,128",2023-12-04
-Air France,CMN,PAR,3h 10m,direct,economy,11:20,14:30,"AED 1,382",2023-12-04
-Air Arabia Maroc,CMN,PAR,9h 00m,2 stops,economy,07:00,16:00,AED 856,2023-12-04
-Iberia,CMN,PAR,5h 05m,1 stop,economy,13:35,18:40,AED 800,2023-12-04
-TAP Portugal,CMN,PAR,7h 25m,1 stop,economy,12:20,19:45,AED 638,2023-12-04
-TAP Portugal,CMN,PAR,7h 55m,2 stops,economy,12:20,20:15,AED 590,2023-12-04
-Iberia,CMN,PAR,6h 35m,1 stop,economy,13:35,20:10,AED 800,2023-12-04
-Royal Air Maroc,CMN,PAR,6h 00m,1 stop,economy,17:05,23:05,AED 796,2023-12-04
-Air Arabia Maroc,CMN,PAR,7h 55m,1 stop,economy,07:00,14:55,AED 631,2023-12-04
-Royal Air Maroc,CMN,PAR,6h 30m,1 stop,economy,11:05,17:35,AED 755,2023-12-04
-Royal Air Maroc,CMN,PAR,10h 45m,1 stop,economy,11:00,21:45,AED 574,2023-12-04
-Air Arabia Maroc,CMN,PAR,9h 50m,2 stops,economy,07:00,16:50,AED 580,2023-12-04
-Royal Air Maroc,CMN,PAR,7h 25m,1 stop,economy,07:50,15:15,AED 738,2023-12-04
-Royal Air Maroc,CMN,PAR,6h 45m,1 stop,economy,15:25,22:10,AED 775,2023-12-04
-Iberia,CMN,PAR,6h 10m,1 stop,economy,16:05,22:15,"AED 1,196",2023-12-04
-Tunisair,CMN,PAR,8h 10m,1 stop,economy,02:35,10:45,AED 903,2023-12-04
-TAP Portugal,CMN,PAR,8h 20m,1 stop,economy,12:20,20:40,AED 782,2023-12-04
-Iberia,CMN,PAR,8h 40m,1 stop,economy,13:35,22:15,AED 845,2023-12-04
-Air Arabia Maroc,CMN,PAR,10h 10m,2 stops,economy,07:00,17:10,AED 660,2023-12-04
-Lufthansa,CMN,PAR,7h 05m,1 stop,economy,02:25,09:30,"AED 1,238",2023-12-04
-Royal Air Maroc,CMN,PAR,5h 35m,1 stop,economy,15:10,20:45,"AED 1,320",2023-12-04
-Iberia,CMN,PAR,6h 45m,1 stop,economy,15:25,22:10,"AED 1,015",2023-12-04
-Air Arabia Maroc,CMN,PAR,9h 00m,1 stop,economy,08:25,17:25,AED 806,2023-12-04
-Royal Air Maroc,CMN,PAR,7h 45m,1 stop,economy,13:00,20:45,AED 872,2023-12-04
-Iberia,CMN,PAR,7h 40m,1 stop,economy,16:05,23:45,"AED 1,035",2023-12-04
-Royal Air Maroc,CMN,PAR,8h 25m,1 stop,economy,11:05,19:30,AED 812,2023-12-04
-Royal Air Maroc,CMN,PAR,6h 05m,1 stop,economy,08:15,14:20,"AED 1,329",2023-12-04
-Royal Air Maroc,CMN,PAR,9h 10m,1 stop,economy,13:00,22:10,AED 798,2023-12-04
-Tunisair,CMN,PAR,8h 00m,1 stop,economy,02:35,10:35,AED 922,2023-12-04
-TAP Portugal,CMN,PAR,7h 40m,2 stops,economy,12:20,20:00,AED 907,2023-12-04
-Iberia,CMN,PAR,10h 10m,1 stop,economy,13:35,23:45,AED 845,2023-12-04
-TAP Portugal,CMN,PAR,9h 30m,1 stop,economy,12:20,21:50,AED 807,2023-12-04
-Iberia,CMN,PAR,7h 45m,1 stop,economy,10:15,18:00,"AED 1,453",2023-12-04
-Royal Air Maroc,CMN,PAR,6h 55m,1 stop,economy,08:15,15:10,"AED 1,384",2023-12-04
-Royal Air Maroc,CMN,PAR,9h 50m,1 stop,economy,11:05,20:55,AED 812,2023-12-04
-Iberia,CMN,PAR,9h 00m,1 stop,economy,13:35,22:35,AED 883,2023-12-04
-TAP Portugal,CMN,PAR,8h 40m,2 stops,economy,12:20,21:00,AED 861,2023-12-04
-Air Arabia Maroc,CMN,PAR,8h 50m,2 stops,economy,07:00,15:50,AED 856,2023-12-04
-Air Arabia Maroc,CMN,PAR,8h 35m,2 stops,economy,15:05,23:40,AED 953,2023-12-04
-Royal Air Maroc,CMN,PAR,9h 55m,1 stop,economy,13:00,22:55,AED 794,2023-12-04
-TAP Portugal,CMN,PAR,9h 30m,2 stops,economy,12:20,21:50,AED 837,2023-12-04
-Lufthansa,CMN,PAR,8h 00m,1 stop,economy,02:25,10:25,"AED 1,238",2023-12-04
-TAP Portugal,CMN,PAR,10h 05m,2 stops,economy,12:20,22:25,AED 769,2023-12-04
-Royal Air Maroc,CMN,PAR,8h 35m,1 stop,economy,11:00,19:35,"AED 1,354",2023-12-04
-Air Arabia Maroc,CMN,PAR,10h 50m,2 stops,economy,07:00,17:50,AED 674,2023-12-04
-Air Arabia Maroc,CMN,PAR,10h 40m,1 stop,economy,08:25,19:05,AED 777,2023-12-04
-Air Arabia Maroc,CMN,PAR,12h 10m,2 stops,economy,07:00,19:10,AED 643,2023-12-04
-Royal Air Maroc,CMN,PAR,10h 55m,1 stop,economy,23:00,09:55+1,AED 736,2023-12-04
-Royal Air Maroc,CMN,PAR,10h 55m,1 stop,economy,23:00,09:55+1,AED 827,2023-12-04
-Royal Air Maroc,CMN,PAR,11h 50m,1 stop,economy,23:00,10:50+1,AED 873,2023-12-04
-Royal Air Maroc,CMN,PAR,12h 00m,1 stop,economy,11:05,23:05,AED 736,2023-12-04
-Iberia,CMN,PAR,9h 55m,1 stop,economy,10:15,20:10,"AED 1,453",2023-12-04
-TAP Portugal,CMN,PAR,11h 25m,2 stops,economy,12:20,23:45,AED 951,2023-12-04
-Iberia,CMN,PAR,8h 25m,1 stop,economy,10:15,18:40,"AED 1,870",2023-12-04
-Iberia,CMN,PAR,6h 20m,1 stop,economy,10:15,16:35,"AED 2,500",2023-12-04
-Lufthansa,CMN,PAR,11h 10m,1 stop,economy,02:25,13:35,"AED 1,238",2023-12-04
-Transavia,CMN,PAR,11h 25m,1 stop,economy,21:15,08:40+1,"AED 1,031",2023-12-04
-Lufthansa,CMN,PAR,8h 45m,2 stops,economy,02:25,11:10,"AED 1,887",2023-12-04
-Royal Air Maroc,CMN,PAR,11h 30m,1 stop,economy,23:10,10:40+1,"AED 1,489",2023-12-04
-British Airways,CMN,PAR,9h 15m,2 stops,economy,13:35,22:50,"AED 2,610",2023-12-04
-British Airways,CMN,PAR,9h 15m,2 stops,economy,13:35,22:50,"AED 2,610",2023-12-04
-British Airways,CMN,PAR,9h 15m,2 stops,economy,13:35,22:50,"AED 2,610",2023-12-04
-Iberia,CMN,PAR,12h 00m,1 stop,economy,10:15,22:15,"AED 2,050",2023-12-04
-TAP Portugal,CMN,PAR,23h 25m,1 stop,economy,12:20,11:45+1,AED 339,2023-12-04
-Royal Air Maroc,CMN,PAR,5h 40m,1 stop,economy,16:35,22:15,"AED 8,090",2023-12-04
-Air Arabia Maroc,CMN,ROM,6h 40m,1 stop,economy,08:25,15:05,AED 542,2023-12-04
-Multiple Airlines,CMN,ROM,28h 10m,2 stops,economy,16:15,20:25+1,AED 341,2023-12-04
-Royal Air Maroc,CMN,ROM,10h 30m,1 stop,economy,23:00,09:30+1,AED 439,2023-12-04
-TAP Portugal,CMN,ROM,6h 25m,1 stop,economy,12:20,18:45,AED 568,2023-12-04
-Air Arabia Maroc,CMN,ROM,5h 35m,1 stop,economy,15:05,20:40,AED 772,2023-12-04
-Pegasus Airlines,CMN,ROM,10h 15m,1 stop,economy,01:10,11:25,AED 582,2023-12-04
-Iberia,CMN,ROM,6h 05m,1 stop,economy,13:35,19:40,AED 774,2023-12-04
-Multiple Airlines,CMN,ROM,17h 10m,2 stops,economy,16:15,09:25+1,AED 374,2023-12-04
-Air France,CMN,ROM,6h 30m,1 stop,economy,08:10,14:40,AED 830,2023-12-04
-Air Arabia Maroc,CMN,ROM,7h 40m,1 stop,economy,08:25,16:05,AED 686,2023-12-04
-Air Arabia Maroc,CMN,ROM,8h 10m,1 stop,economy,07:00,15:10,AED 679,2023-12-04
-Royal Air Maroc,CMN,ROM,14h 45m,1 stop,economy,23:00,13:45+1,AED 478,2023-12-04
-TAP Portugal,CMN,ROM,12h 05m,1 stop,economy,12:20,00:25+1,AED 568,2023-12-04
-Royal Air Maroc,CMN,ROM,6h 20m,1 stop,economy,16:00,22:20,AED 885,2023-12-04
-Royal Air Maroc,CMN,ROM,13h 40m,1 stop,economy,23:05,12:45+1,AED 514,2023-12-04
-Iberia,CMN,ROM,5h 05m,1 stop,economy,19:00,00:05+1,AED 916,2023-12-04
-Royal Air Maroc,CMN,ROM,6h 25m,1 stop,economy,08:10,14:35,AED 963,2023-12-04
-Pegasus Airlines,CMN,ROM,15h 10m,1 stop,economy,01:10,16:20,AED 582,2023-12-04
-Tunisair,CMN,ROM,6h 40m,1 stop,economy,02:35,09:15,AED 890,2023-12-04
-TAP Portugal,CMN,ROM,9h 25m,1 stop,economy,12:20,21:45,AED 594,2023-12-04
-Air France,CMN,ROM,6h 20m,1 stop,economy,11:20,17:40,"AED 1,040",2023-12-04
-Lufthansa,CMN,ROM,6h 30m,1 stop,economy,02:25,08:55,"AED 1,210",2023-12-04
-TAP Portugal,CMN,ROM,12h 25m,2 stops,economy,12:20,00:45+1,AED 490,2023-12-04
-Royal Air Maroc,CMN,ROM,7h 55m,1 stop,economy,12:10,20:05,AED 905,2023-12-04
-Multiple Airlines,CMN,ROM,16h 20m,2 stops,economy,17:05,09:25+1,AED 517,2023-12-04
-Royal Air Maroc,CMN,ROM,8h 15m,1 stop,economy,16:00,00:15+1,AED 847,2023-12-04
-Royal Air Maroc,CMN,ROM,7h 50m,1 stop,economy,12:50,20:40,AED 895,2023-12-04
-Royal Air Maroc,CMN,ROM,9h 10m,1 stop,economy,13:00,22:10,AED 804,2023-12-04
-Air France,CMN,ROM,9h 30m,1 stop,economy,08:10,17:40,AED 890,2023-12-04
-Iberia,CMN,ROM,10h 30m,1 stop,economy,13:35,00:05+1,AED 818,2023-12-04
-Iberia,CMN,ROM,8h 00m,1 stop,economy,16:05,00:05+1,AED 940,2023-12-04
-Air France,CMN,ROM,16h 30m,1 stop,economy,19:15,11:45+1,AED 712,2023-12-04
-Royal Air Maroc,CMN,ROM,7h 10m,1 stop,economy,13:20,20:30,"AED 1,212",2023-12-04
-Multiple Airlines,CMN,ROM,10h 20m,2 stops,economy,07:00,17:20,AED 728,2023-12-04
-Royal Air Maroc,CMN,ROM,8h 25m,1 stop,economy,13:25,21:50,AED 965,2023-12-04
-Iberia,CMN,ROM,6h 20m,1 stop,economy,16:00,22:20,"AED 1,102",2023-12-04
-Air Arabia Maroc,CMN,ROM,9h 40m,1 stop,economy,07:00,16:40,AED 852,2023-12-04
-Royal Air Maroc,CMN,ROM,9h 40m,1 stop,economy,13:35,23:15,AED 883,2023-12-04
-Royal Air Maroc,CMN,ROM,9h 55m,1 stop,economy,13:20,23:15,AED 864,2023-12-04
-Iberia,CMN,ROM,8h 00m,1 stop,economy,13:35,21:35,AED 938,2023-12-04
-Air France,CMN,ROM,11h 25m,1 stop,economy,11:20,22:45,AED 980,2023-12-04
-Air Arabia Maroc,CMN,ROM,12h 55m,2 stops,economy,07:00,19:55,AED 700,2023-12-04
-Air Arabia Maroc,CMN,ROM,9h 50m,2 stops,economy,07:00,16:50,AED 810,2023-12-04
-Royal Air Maroc,CMN,ROM,11h 05m,1 stop,economy,12:10,23:15,AED 883,2023-12-04
-Air Arabia Maroc,CMN,ROM,14h 20m,2 stops,economy,07:00,21:20,AED 692,2023-12-04
-Iberia,CMN,ROM,7h 50m,1 stop,economy,16:05,23:55,"AED 1,255",2023-12-04
-Iberia,CMN,ROM,10h 20m,1 stop,economy,13:35,23:55,AED 957,2023-12-04
-TAP Portugal,CMN,ROM,11h 55m,2 stops,economy,12:20,00:15+1,AED 807,2023-12-04
-TAP Portugal,CMN,ROM,8h 20m,2 stops,economy,12:20,20:40,AED 969,2023-12-04
-Air France,CMN,ROM,14h 35m,1 stop,economy,08:10,22:45,AED 830,2023-12-04
-Air Arabia Maroc,CMN,ROM,17h 45m,1 stop,economy,07:00,00:45+1,AED 401,2023-12-04
-Multiple Airlines,CMN,ROM,14h 35m,2 stops,economy,17:05,07:40+1,AED 718,2023-12-04
-TAP Portugal,CMN,ROM,11h 45m,2 stops,economy,12:20,00:05+1,AED 965,2023-12-04
-Transavia France,CMN,ROM,14h 20m,1 stop,economy,19:15,09:35+1,AED 790,2023-12-04
-Transavia France,CMN,ROM,14h 50m,1 stop,economy,21:15,12:05+1,AED 530,2023-12-04
-Lufthansa,CMN,ROM,10h 20m,1 stop,economy,02:25,12:45,"AED 1,210",2023-12-04
-Transavia France,CMN,ROM,14h 05m,1 stop,economy,19:15,09:20+1,AED 754,2023-12-04
-Royal Air Maroc,CMN,ROM,18h 05m,2 stops,economy,16:15,10:20+1,AED 461,2023-12-04
-KLM,CMN,ROM,16h 40m,2 stops,economy,19:15,11:55+1,AED 839,2023-12-04
-Transavia France,CMN,ROM,15h 50m,1 stop,economy,19:15,11:05+1,AED 753,2023-12-04
-Multiple Airlines,CMN,ROM,17h 55m,2 stops,economy,16:15,10:10+1,AED 437,2023-12-04
-Multiple Airlines,CMN,ROM,15h 15m,2 stops,economy,17:05,08:20+1,AED 846,2023-12-04
-Air Arabia Maroc,CMN,ROM,16h 40m,2 stops,economy,15:05,07:45+1,AED 697,2023-12-04
-Royal Air Maroc,CMN,ROM,15h 50m,2 stops,economy,16:00,07:50+1,AED 798,2023-12-04
-Air Arabia Maroc,CMN,ROM,16h 25m,1 stop,economy,15:05,07:30+1,AED 772,2023-12-04
-Multiple Airlines,CMN,ROM,17h 05m,2 stops,economy,17:05,10:10+1,AED 579,2023-12-04
-Iberia,CMN,ROM,9h 25m,1 stop,economy,10:15,19:40,"AED 1,610",2023-12-04
-Multiple Airlines,CMN,ROM,15h 55m,2 stops,economy,15:05,07:00+1,AED 827,2023-12-04
-Multiple Airlines,CMN,ROM,13h 55m,3 stops,economy,07:00,20:55,AED 879,2023-12-04
-Lufthansa,CMN,ROM,10h 00m,2 stops,economy,02:25,12:25,"AED 1,410",2023-12-04
-TUI Fly Belgium,CMN,ROM,13h 30m,1 stop,economy,20:00,09:30+1,"AED 1,020",2023-12-04
-Egypt Air,CMN,ROM,10h 30m,1 stop,economy,00:55,11:25,"AED 1,535",2023-12-04
-Multiple Airlines,CMN,ROM,17h 05m,2 stops,economy,17:05,10:10+1,AED 642,2023-12-04
-Iberia,CMN,ROM,16h 10m,1 stop,economy,19:00,11:10+1,"AED 1,010",2023-12-04
-Transavia France,CMN,ROM,12h 55m,1 stop,economy,19:15,08:10+1,"AED 1,233",2023-12-04
-KLM,CMN,ROM,11h 00m,2 stops,economy,08:10,19:10,"AED 1,623",2023-12-04
-Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 614,2023-12-04
-Multiple Airlines,CMN,IST,29h 00m,2 stops,economy,16:15,23:15+1,AED 526,2023-12-04
-Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 640,2023-12-04
-Pegasus Airlines,CMN,IST,4h 45m,direct,economy,01:10,07:55,AED 641,2023-12-04
-Royal Air Maroc,CMN,IST,4h 50m,direct,economy,09:50,16:40,AED 942,2023-12-04
-Turkish Airlines,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 1,281",2023-12-04
-Royal Air Maroc,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 2,145",2023-12-04
-Turkish Airlines,CMN,IST,4h 50m,direct,economy,09:50,16:40,"AED 2,244",2023-12-04
-Egypt Air,CMN,IST,10h 05m,1 stop,economy,00:55,13:00,"AED 1,184",2023-12-04
-Air Arabia Maroc,CMN,IST,8h 45m,1 stop,economy,07:00,17:45,"AED 1,077",2023-12-04
-Egypt Air,CMN,IST,11h 15m,1 stop,economy,13:35,02:50+1,"AED 1,175",2023-12-04
-Royal Air Maroc,CMN,IST,8h 05m,1 stop,economy,13:00,23:05,"AED 1,278",2023-12-04
-Multiple Airlines,CMN,IST,17h 05m,2 stops,economy,23:00,18:05+1,AED 774,2023-12-04
-Royal Air Maroc,CMN,IST,8h 35m,1 stop,economy,13:20,23:55,"AED 1,275",2023-12-04
-Transavia France,CMN,IST,16h 55m,1 stop,economy,21:15,16:10+1,AED 883,2023-12-04
-Multiple Airlines,CMN,IST,13h 00m,2 stops,economy,15:05,06:05+1,AED 874,2023-12-04
-Royal Air Maroc,CMN,IST,9h 15m,1 stop,economy,12:40,23:55,"AED 1,255",2023-12-04
-Multiple Airlines,CMN,IST,16h 55m,2 stops,economy,11:05,06:00+1,AED 803,2023-12-04
-Air Arabia Maroc,CMN,IST,10h 15m,1 stop,economy,07:00,19:15,"AED 1,163",2023-12-04
-Royal Air Maroc,CMN,IST,11h 20m,1 stop,economy,08:10,21:30,"AED 1,106",2023-12-04
-Royal Air Maroc,CMN,IST,9h 05m,1 stop,economy,12:50,23:55,"AED 1,302",2023-12-04
-Multiple Airlines,CMN,IST,16h 20m,2 stops,economy,23:00,17:20+1,AED 851,2023-12-04
-Egypt Air,CMN,IST,14h 55m,1 stop,economy,00:55,17:50,"AED 1,174",2023-12-04
-Air Arabia Maroc,CMN,IST,13h 10m,1 stop,economy,08:25,23:35,"AED 1,044",2023-12-04
-Multiple Airlines,CMN,IST,13h 00m,2 stops,economy,07:00,22:00,AED 930,2023-12-04
-Royal Air Maroc,CMN,IST,10h 30m,1 stop,economy,12:10,00:40+1,"AED 1,246",2023-12-04
-Qatar Airways,CMN,IST,13h 00m,1 stop,economy,16:00,07:00+1,"AED 2,250",2023-12-04
-Air Arabia Maroc,CMN,IST,12h 40m,1 stop,economy,07:00,21:40,"AED 1,092",2023-12-04
-Egypt Air,CMN,IST,9h 10m,1 stop,economy,13:35,00:45+1,"AED 2,816",2023-12-04
-Transavia France,CMN,IST,15h 55m,1 stop,economy,19:15,13:10+1,"AED 1,010",2023-12-04
-Royal Air Maroc,CMN,IST,10h 50m,1 stop,economy,08:10,21:00,"AED 1,249",2023-12-04
-TUI Fly Belgium,CMN,IST,15h 20m,1 stop,economy,20:00,13:20+1,"AED 1,057",2023-12-04
-Egypt Air,CMN,IST,10h 40m,1 stop,economy,00:55,13:35,"AED 2,133",2023-12-04
-Egypt Air,CMN,IST,11h 55m,1 stop,economy,23:05,13:00+1,"AED 1,758",2023-12-04
-Royal Air Maroc,CMN,IST,14h 25m,1 stop,economy,13:35,06:00+1,"AED 1,150",2023-12-04
-Multiple Airlines,CMN,IST,15h 40m,3 stops,economy,12:20,06:00+1,AED 875,2023-12-04
-Lufthansa,CMN,IST,13h 20m,1 stop,economy,02:25,17:45,"AED 1,545",2023-12-04
-Royal Air Maroc,CMN,IST,15h 50m,1 stop,economy,12:10,06:00+1,"AED 1,149",2023-12-04
-Tunisair,CMN,IST,11h 20m,1 stop,economy,02:35,15:55,"AED 1,437",2023-12-04
-Egypt Air,CMN,IST,12h 30m,1 stop,economy,23:05,13:35+1,"AED 2,688",2023-12-04
-Tunisair,CMN,IST,12h 40m,2 stops,economy,02:35,17:15,"AED 1,341",2023-12-04
-Qatar Airways,CMN,IST,15h 00m,1 stop,economy,14:00,07:00+1,"AED 2,250",2023-12-04
-Egypt Air,CMN,IST,16h 45m,1 stop,economy,23:05,17:50+1,"AED 1,761",2023-12-04
-Egypt Air,CMN,IST,15h 55m,1 stop,economy,13:35,07:30+1,"AED 2,831",2023-12-04
-Multiple Airlines,CMN,IST,14h 45m,3 stops,economy,12:20,05:05+1,"AED 1,298",2023-12-04
-Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:10,11:05,"AED 2,376",2023-12-04
-TAP Portugal,CMN,PAR,7h 25m,1 stop,business,12:20,19:45,"AED 1,060",2023-12-04
-Royal Air Maroc,CMN,PAR,3h 00m,direct,business,13:25,16:25,"AED 2,378",2023-12-04
-Royal Air Maroc,CMN,PAR,2h 55m,direct,business,18:30,21:25,"AED 2,502",2023-12-04
-Royal Air Maroc,CMN,PAR,2h 55m,direct,business,14:10,17:05,"AED 2,502",2023-12-04
-Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,15:10,"AED 3,986",2023-12-04
-Iberia,CMN,PAR,6h 35m,1 stop,business,13:35,20:10,"AED 1,403",2023-12-04
-Air France,CMN,PAR,3h 10m,direct,business,11:20,14:30,"AED 4,194",2023-12-04
-Air France,CMN,PAR,3h 15m,direct,business,08:10,11:25,"AED 4,194",2023-12-04
-Air France,CMN,PAR,3h 15m,direct,business,19:15,22:30,"AED 4,194",2023-12-04
-Air France,CMN,PAR,3h 15m,direct,business,16:35,19:50,"AED 4,194",2023-12-04
-TAP Portugal,CMN,PAR,9h 20m,1 stop,business,12:20,21:40,"AED 1,060",2023-12-04
-TAP Portugal,CMN,PAR,10h 40m,1 stop,business,12:20,23:00,"AED 1,063",2023-12-04
-Iberia,CMN,PAR,5h 05m,1 stop,business,13:35,18:40,"AED 2,172",2023-12-04
-Iberia,CMN,PAR,7h 40m,1 stop,business,16:05,23:45,"AED 1,453",2023-12-04
-Iberia,CMN,PAR,7h 45m,1 stop,business,10:15,18:00,"AED 1,453",2023-12-04
-Iberia,CMN,PAR,10h 10m,1 stop,business,13:35,23:45,"AED 1,403",2023-12-04
-TAP Portugal,CMN,PAR,7h 55m,2 stops,business,12:20,20:15,"AED 1,421",2023-12-04
-Iberia,CMN,PAR,9h 55m,1 stop,business,10:15,20:10,"AED 1,453",2023-12-04
-Iberia,CMN,PAR,6h 05m,1 stop,business,10:15,16:20,"AED 2,267",2023-12-04
-TAP Portugal,CMN,PAR,10h 05m,2 stops,business,12:20,22:25,"AED 1,378",2023-12-04
-Iberia,CMN,PAR,6h 20m,1 stop,business,10:15,16:35,"AED 2,273",2023-12-04
-Royal Air Maroc,CMN,PAR,5h 20m,1 stop,business,14:40,20:00,"AED 2,807",2023-12-04
-Tunisair,CMN,PAR,8h 10m,1 stop,business,02:35,10:45,"AED 2,231",2023-12-04
-Royal Air Maroc,CMN,PAR,5h 35m,1 stop,business,15:10,20:45,"AED 2,847",2023-12-04
-Iberia,CMN,PAR,6h 10m,1 stop,business,16:05,22:15,"AED 2,590",2023-12-04
-TAP Portugal,CMN,PAR,7h 40m,2 stops,business,12:20,20:00,"AED 1,797",2023-12-04
-Iberia,CMN,PAR,8h 40m,1 stop,business,13:35,22:15,"AED 2,166",2023-12-04
-Royal Air Maroc,CMN,PAR,6h 05m,1 stop,business,10:15,16:20,"AED 3,352",2023-12-04
-Iberia,CMN,PAR,8h 50m,2 stops,business,13:35,22:25,"AED 1,916",2023-12-04
-Iberia,CMN,PAR,6h 20m,1 stop,business,16:00,22:20,"AED 3,215",2023-12-04
-Iberia,CMN,PAR,6h 15m,1 stop,business,16:05,22:20,"AED 3,414",2023-12-04
-Iberia,CMN,PAR,9h 15m,2 stops,business,13:35,22:50,"AED 1,926",2023-12-04
-Royal Air Maroc,CMN,PAR,6h 05m,1 stop,business,08:15,14:20,"AED 4,027",2023-12-04
-Iberia,CMN,PAR,6h 45m,1 stop,business,13:35,20:20,"AED 3,371",2023-12-04
-Royal Air Maroc,CMN,PAR,6h 20m,1 stop,business,16:00,22:20,"AED 4,061",2023-12-04
-TAP Portugal,CMN,PAR,10h 00m,2 stops,business,12:20,22:20,"AED 1,919",2023-12-04
-Iberia,CMN,PAR,10h 35m,2 stops,business,10:15,20:50,"AED 1,901",2023-12-04
-Iberia,CMN,PAR,8h 25m,1 stop,business,10:15,18:40,"AED 3,348",2023-12-04
-Royal Air Maroc,CMN,PAR,6h 55m,1 stop,business,08:15,15:10,"AED 4,027",2023-12-04
-Royal Air Maroc,CMN,PAR,8h 35m,1 stop,business,11:00,19:35,"AED 2,803",2023-12-04
-Lufthansa,CMN,PAR,8h 45m,2 stops,business,02:25,11:10,"AED 3,100",2023-12-04
-British Airways,CMN,PAR,9h 15m,2 stops,business,13:35,22:50,"AED 3,620",2023-12-04
-British Airways,CMN,PAR,9h 15m,2 stops,business,13:35,22:50,"AED 3,620",2023-12-04
-British Airways,CMN,PAR,9h 15m,2 stops,business,13:35,22:50,"AED 3,620",2023-12-04
-Iberia,CMN,PAR,9h 25m,2 stops,business,13:35,23:00,"AED 2,920",2023-12-04
-TAP Portugal,CMN,PAR,9h 45m,2 stops,business,12:20,22:05,"AED 2,910",2023-12-04
-TAP Portugal,CMN,PAR,10h 30m,2 stops,business,12:20,22:50,"AED 2,478",2023-12-04
-Multiple Airlines,CMN,PAR,11h 15m,2 stops,business,11:05,22:20,"AED 2,334",2023-12-04
-Tunisair,CMN,PAR,10h 55m,1 stop,business,02:35,13:30,"AED 3,762",2023-12-04
-Royal Air Maroc,CMN,PAR,11h 50m,1 stop,business,23:00,10:50+1,"AED 4,039",2023-12-04
-TAP Portugal,CMN,PAR,21h 50m,1 stop,business,12:20,10:10+1,"AED 1,064",2023-12-04
-TAP Portugal,CMN,ROM,6h 25m,1 stop,business,12:20,18:45,AED 984,2023-12-04
-Iberia,CMN,ROM,5h 05m,1 stop,business,19:00,00:05+1,"AED 1,536",2023-12-04
-Iberia,CMN,ROM,6h 05m,1 stop,business,13:35,19:40,"AED 1,524",2023-12-04
-TAP Portugal,CMN,ROM,12h 05m,1 stop,business,12:20,00:25+1,AED 989,2023-12-04
-Iberia,CMN,ROM,8h 00m,1 stop,business,16:05,00:05+1,"AED 1,574",2023-12-04
-Iberia,CMN,ROM,8h 00m,1 stop,business,10:15,18:15,"AED 1,574",2023-12-04
-TAP Portugal,CMN,ROM,23h 05m,1 stop,business,12:20,11:25+1,"AED 1,005",2023-12-04
-Tunisair,CMN,ROM,6h 40m,1 stop,business,02:35,09:15,"AED 2,313",2023-12-04
-Iberia,CMN,ROM,9h 25m,1 stop,business,10:15,19:40,"AED 1,574",2023-12-04
-Air France,CMN,ROM,6h 20m,1 stop,business,11:20,17:40,"AED 3,117",2023-12-04
-Iberia,CMN,ROM,10h 30m,1 stop,business,13:35,00:05+1,"AED 1,524",2023-12-04
-Air France,CMN,ROM,6h 30m,1 stop,business,08:10,14:40,"AED 3,112",2023-12-04
-Egypt Air,CMN,ROM,10h 30m,1 stop,business,00:55,11:25,"AED 2,607",2023-12-04
-TAP Portugal,CMN,ROM,12h 25m,2 stops,business,12:20,00:45+1,"AED 1,180",2023-12-04
-Iberia,CMN,ROM,7h 10m,1 stop,business,10:15,17:25,"AED 2,536",2023-12-04
-Iberia,CMN,ROM,16h 10m,1 stop,business,19:00,11:10+1,"AED 1,539",2023-12-04
-Iberia,CMN,ROM,13h 50m,1 stop,business,10:15,00:05+1,"AED 1,610",2023-12-04
-Iberia,CMN,ROM,7h 00m,1 stop,business,13:35,20:35,"AED 2,796",2023-12-04
-Air France,CMN,ROM,9h 30m,1 stop,business,08:10,17:40,"AED 3,112",2023-12-04
-Royal Air Maroc,CMN,ROM,7h 10m,1 stop,business,10:15,17:25,"AED 3,621",2023-12-04
-Royal Air Maroc,CMN,ROM,7h 10m,1 stop,business,13:20,20:30,"AED 3,955",2023-12-04
-Iberia,CMN,ROM,11h 10m,2 stops,business,13:35,00:45+1,"AED 1,651",2023-12-04
-Royal Air Maroc,CMN,ROM,8h 25m,1 stop,business,13:25,21:50,"AED 2,966",2023-12-04
-Royal Air Maroc,CMN,ROM,7h 50m,1 stop,business,12:50,20:40,"AED 3,457",2023-12-04
-Iberia,CMN,ROM,10h 40m,2 stops,business,13:35,00:15+1,"AED 1,854",2023-12-04
-Iberia,CMN,ROM,10h 10m,2 stops,business,13:35,23:45,"AED 1,995",2023-12-04
-Royal Air Maroc,CMN,ROM,8h 50m,1 stop,business,08:10,17:00,"AED 3,112",2023-12-04
-Tunisair,CMN,ROM,10h 15m,1 stop,business,02:35,12:50,"AED 2,653",2023-12-04
-Iberia,CMN,ROM,17h 05m,2 stops,business,19:00,12:05+1,"AED 1,685",2023-12-04
-Air France,CMN,ROM,16h 30m,1 stop,business,19:15,11:45+1,"AED 2,822",2023-12-04
-Air France,CMN,ROM,11h 25m,1 stop,business,11:20,22:45,"AED 3,538",2023-12-04
-Royal Air Maroc,CMN,ROM,9h 25m,1 stop,business,14:10,23:35,"AED 3,402",2023-12-04
-Royal Air Maroc,CMN,ROM,9h 10m,1 stop,business,13:00,22:10,"AED 3,722",2023-12-04
-Air France,CMN,ROM,14h 35m,1 stop,business,08:10,22:45,"AED 3,119",2023-12-04
-Royal Air Maroc,CMN,ROM,9h 55m,1 stop,business,13:20,23:15,"AED 3,357",2023-12-04
-Royal Air Maroc,CMN,ROM,10h 10m,1 stop,business,13:25,23:35,"AED 3,253",2023-12-04
-Lufthansa,CMN,ROM,10h 00m,2 stops,business,02:25,12:25,"AED 3,160",2023-12-04
-Lufthansa,CMN,ROM,10h 00m,2 stops,business,02:25,12:25,"AED 3,160",2023-12-04
-Air Arabia Maroc,CMN,ROM,9h 45m,2 stops,business,07:00,16:45,"AED 3,365",2023-12-04
-Air Arabia Maroc,CMN,ROM,11h 00m,2 stops,business,07:00,18:00,"AED 3,133",2023-12-04
-TAP Portugal,CMN,ROM,11h 45m,2 stops,business,12:20,00:05+1,"AED 2,879",2023-12-04
-KLM,CMN,ROM,11h 50m,2 stops,business,11:20,23:10,"AED 3,616",2023-12-04
-KLM,CMN,ROM,11h 50m,2 stops,business,11:20,23:10,"AED 3,618",2023-12-04
-KLM,CMN,ROM,11h 50m,2 stops,business,11:20,23:10,"AED 3,618",2023-12-04
-KLM,CMN,ROM,16h 40m,2 stops,business,19:15,11:55+1,"AED 3,168",2023-12-04
-Lufthansa,CMN,ROM,12h 45m,2 stops,business,02:25,15:10,"AED 3,459",2023-12-04
-Transavia France,CMN,ROM,18h 15m,2 stops,business,21:15,15:30+1,"AED 2,060",2023-12-04
-KLM,CMN,ROM,15h 00m,2 stops,business,08:10,23:10,"AED 3,618",2023-12-04
-KLM,CMN,ROM,15h 00m,2 stops,business,08:10,23:10,"AED 3,618",2023-12-04
-KLM,CMN,ROM,15h 00m,2 stops,business,08:10,23:10,"AED 3,618",2023-12-04
-KLM,CMN,ROM,15h 00m,2 stops,business,08:10,23:10,"AED 3,618",2023-12-04
-KLM,CMN,ROM,15h 00m,2 stops,business,08:10,23:10,"AED 3,618",2023-12-04
-Egypt Air,CMN,ROM,12h 20m,1 stop,business,23:05,11:25+1,"AED 3,805",2023-12-04
-Lufthansa,CMN,ROM,12h 45m,2 stops,business,02:25,15:10,"AED 3,566",2023-12-04
-Lufthansa,CMN,ROM,12h 45m,2 stops,business,02:25,15:10,"AED 3,815",2023-12-04
-Royal Air Maroc,CMN,ROM,6h 15m,1 stop,business,14:15,20:30,"AED 5,228",2023-12-04
-Tunisair,CMN,ROM,18h 15m,2 stops,business,02:35,20:50,"AED 2,619",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 3,800",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 3,800",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 3,804",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 3,813",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 3,813",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 3,815",2023-12-04
-Turkish Airlines,CMN,ROM,16h 45m,1 stop,business,17:10,09:55+1,"AED 4,563",2023-12-04
-Air France,CMN,ROM,14h 20m,1 stop,business,19:15,09:35+1,"AED 4,678",2023-12-04
-Air France,CMN,ROM,14h 05m,1 stop,business,19:15,09:20+1,"AED 4,655",2023-12-04
-Lufthansa,CMN,ROM,16h 35m,2 stops,business,02:25,19:00,"AED 4,777",2023-12-04
-Royal Air Maroc,CMN,ROM,12h 20m,1 stop,business,23:05,11:25+1,"AED 6,019",2023-12-04
-Air France,CMN,ROM,12h 55m,1 stop,business,19:15,08:10+1,"AED 6,380",2023-12-04
-Turkish Airlines,CMN,ROM,12h 05m,1 stop,business,09:50,21:55,"AED 10,172",2023-12-04
-Qatar Airways,CMN,ROM,16h 45m,1 stop,business,14:00,06:45+1,"AED 16,940",2023-12-04
-Qatar Airways,CMN,ROM,14h 45m,1 stop,business,16:00,06:45+1,"AED 25,402",2023-12-04
-Royal Air Maroc,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 3,534",2023-12-04
-TAP Portugal,CMN,IST,32h 00m,2 stops,business,12:20,22:20+1,"AED 1,408",2023-12-04
-Turkish Airlines,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 3,900",2023-12-04
-Royal Air Maroc,CMN,IST,4h 50m,direct,business,09:50,16:40,"AED 4,263",2023-12-04
-Turkish Airlines,CMN,IST,4h 50m,direct,business,09:50,16:40,"AED 6,840",2023-12-04
-Egypt Air,CMN,IST,10h 05m,1 stop,business,00:55,13:00,"AED 2,460",2023-12-04
-Egypt Air,CMN,IST,11h 15m,1 stop,business,13:35,02:50+1,"AED 2,451",2023-12-04
-Lufthansa,CMN,IST,13h 20m,1 stop,business,02:25,17:45,"AED 2,430",2023-12-04
-Air Arabia Maroc,CMN,IST,8h 10m,1 stop,business,07:00,17:10,"AED 2,989",2023-12-04
-Egypt Air,CMN,IST,9h 10m,1 stop,business,13:35,00:45+1,"AED 3,380",2023-12-04
-Egypt Air,CMN,IST,14h 55m,1 stop,business,00:55,17:50,"AED 2,455",2023-12-04
-Egypt Air,CMN,IST,11h 55m,1 stop,business,23:05,13:00+1,"AED 2,958",2023-12-04
-Egypt Air,CMN,IST,10h 40m,1 stop,business,00:55,13:35,"AED 3,385",2023-12-04
-Iberia,CMN,IST,14h 35m,2 stops,business,19:00,11:35+1,"AED 2,304",2023-12-04
-Egypt Air,CMN,IST,16h 45m,1 stop,business,23:05,17:50+1,"AED 2,964",2023-12-04
-Egypt Air,CMN,IST,12h 30m,1 stop,business,23:05,13:35+1,"AED 3,796",2023-12-04
-Iberia,CMN,IST,8h 55m,1 stop,business,10:15,21:10,"AED 5,347",2023-12-04
-Egypt Air,CMN,IST,15h 55m,1 stop,business,13:35,07:30+1,"AED 3,405",2023-12-04
-Tunisair,CMN,IST,11h 20m,1 stop,business,02:35,15:55,"AED 4,096",2023-12-04
-Multiple Airlines,CMN,IST,15h 45m,3 stops,business,12:20,06:05+1,"AED 2,180",2023-12-04
-Royal Air Maroc,CMN,IST,8h 05m,1 stop,business,13:00,23:05,"AED 6,133",2023-12-04
-Egypt Air,CMN,IST,12h 10m,1 stop,business,00:55,15:05,"AED 3,348",2023-12-04
-Royal Air Maroc,CMN,IST,10h 30m,1 stop,business,12:10,00:40+1,"AED 5,089",2023-12-04
-Air Arabia Maroc,CMN,IST,15h 40m,2 stops,business,07:00,00:40+1,"AED 2,503",2023-12-04
-Royal Air Maroc,CMN,IST,8h 35m,1 stop,business,13:20,23:55,"AED 6,679",2023-12-04
-Royal Air Maroc,CMN,IST,8h 55m,1 stop,business,10:15,21:10,"AED 6,778",2023-12-04
-Air Arabia Maroc,CMN,IST,12h 10m,2 stops,business,08:25,22:35,"AED 3,278",2023-12-04
-Royal Air Maroc,CMN,IST,9h 15m,1 stop,business,12:40,23:55,"AED 6,940",2023-12-04
-Egypt Air,CMN,IST,14h 00m,1 stop,business,23:05,15:05+1,"AED 4,297",2023-12-04
-Air France,CMN,IST,10h 50m,1 stop,business,08:10,21:00,"AED 8,738",2023-12-04
-Lufthansa,CMN,IST,14h 40m,2 stops,business,02:25,19:05,"AED 3,095",2023-12-04
-Lufthansa,CMN,IST,13h 30m,2 stops,business,02:25,17:55,"AED 3,720",2023-12-04
-Royal Air Maroc,CMN,IST,14h 00m,1 stop,business,23:05,15:05+1,"AED 4,971",2023-12-04
-Iberia,CMN,IST,16h 20m,1 stop,business,19:00,13:20+1,"AED 5,505",2023-12-04
-Lufthansa,CMN,IST,12h 40m,1 stop,business,02:25,17:05,"AED 6,221",2023-12-04
-Multiple Airlines,CMN,IST,15h 25m,3 stops,business,02:25,19:50,"AED 2,958",2023-12-04
-Lufthansa,CMN,IST,16h 25m,2 stops,business,02:25,20:50,"AED 4,093",2023-12-04
-Qatar Airways,CMN,IST,15h 00m,1 stop,business,14:00,07:00+1,"AED 8,580",2023-12-04
-Qatar Airways,CMN,IST,13h 00m,1 stop,business,16:00,07:00+1,"AED 10,948",2023-12-04
-Air France,CMN,IST,15h 30m,1 stop,business,19:15,12:45+1,"AED 9,685",2023-12-04
-TAP Portugal,CMN,IST,32h 00m,2 stops,business,12:20,22:20+1,"AED 1,408",2023-12-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,18:30,21:25,AED 565,2023-12-04
+Royal Air Maroc,CMN,PAR,15h 55m,1 stop,economy,22:55,14:50+1,AED 390,2023-12-04
+Transavia France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,AED 572,2023-12-04
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,12:20,15:10,AED 932,2023-12-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,14:10,17:05,AED 950,2023-12-04
+Royal Air Maroc,CMN,PAR,3h 00m,direct,economy,13:25,16:25,AED 933,2023-12-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:10,11:05,AED 961,2023-12-04
+Air France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,"AED 1,013",2023-12-04
+Air France,CMN,PAR,3h 15m,direct,economy,16:35,19:50,"AED 1,070",2023-12-04
+Air France,CMN,PAR,3h 10m,direct,economy,11:20,14:30,"AED 1,194",2023-12-04
+Air France,CMN,PAR,3h 15m,direct,economy,08:10,11:25,"AED 1,501",2023-12-04
+Iberia,CMN,PAR,5h 05m,1 stop,economy,13:35,18:40,"AED 1,024",2023-12-04
+Royal Air Maroc,CMN,PAR,6h 00m,1 stop,economy,17:05,23:05,AED 833,2023-12-04
+TAP Portugal,CMN,PAR,7h 25m,1 stop,economy,12:20,19:45,AED 826,2023-12-04
+Iberia,CMN,PAR,6h 35m,1 stop,economy,13:35,20:10,"AED 1,024",2023-12-04
+Iberia,CMN,PAR,6h 10m,1 stop,economy,16:05,22:15,"AED 1,174",2023-12-04
+Pegasus Airlines,CMN,ROM,10h 15m,1 stop,economy,01:10,11:25,AED 584,2023-12-04
+Multiple Airlines,CMN,ROM,21h 00m,2 stops,economy,16:15,13:15+1,AED 450,2023-12-04
+Air Arabia Maroc,CMN,ROM,7h 40m,1 stop,economy,08:25,16:05,AED 785,2023-12-04
+Royal Air Maroc,CMN,ROM,14h 45m,1 stop,economy,23:00,13:45+1,AED 483,2023-12-04
+TAP Portugal,CMN,ROM,6h 25m,1 stop,economy,12:20,18:45,AED 963,2023-12-04
+Iberia,CMN,ROM,6h 05m,1 stop,economy,13:35,19:40,"AED 1,030",2023-12-04
+Pegasus Airlines,CMN,ROM,15h 10m,1 stop,economy,01:10,16:20,AED 584,2023-12-04
+Air France,CMN,ROM,6h 20m,1 stop,economy,11:20,17:40,"AED 1,030",2023-12-04
+Air Arabia Maroc,CMN,ROM,8h 10m,1 stop,economy,07:00,15:10,AED 876,2023-12-04
+Air France,CMN,ROM,6h 30m,1 stop,economy,08:10,14:40,"AED 1,036",2023-12-04
+Transavia France,CMN,ROM,14h 50m,1 stop,economy,21:15,12:05+1,AED 623,2023-12-04
+Tunisair,CMN,ROM,6h 40m,1 stop,economy,02:35,09:15,"AED 1,005",2023-12-04
+Royal Air Maroc,CMN,ROM,7h 55m,1 stop,economy,12:10,20:05,AED 980,2023-12-04
+Iberia,CMN,ROM,5h 05m,1 stop,economy,19:00,00:05+1,"AED 1,120",2023-12-04
+Iberia,CMN,ROM,8h 00m,1 stop,economy,16:05,00:05+1,AED 936,2023-12-04
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 641,2023-12-04
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,01:10,07:55,AED 646,2023-12-04
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 679,2023-12-04
+Royal Air Maroc,CMN,IST,4h 50m,direct,economy,09:50,16:40,AED 934,2023-12-04
+Turkish Airlines,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 1,273",2023-12-04
+Royal Air Maroc,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 2,148",2023-12-04
+Turkish Airlines,CMN,IST,4h 50m,direct,economy,09:50,16:40,"AED 2,225",2023-12-04
+Egypt Air,CMN,IST,10h 05m,1 stop,economy,00:55,13:00,"AED 1,281",2023-12-04
+KLM,CMN,IST,19h 40m,2 stops,economy,19:15,16:55+1,AED 778,2023-12-04
+KLM,CMN,IST,19h 40m,2 stops,economy,19:15,16:55+1,AED 778,2023-12-04
+KLM,CMN,IST,19h 40m,2 stops,economy,19:15,16:55+1,AED 785,2023-12-04
+Egypt Air,CMN,IST,11h 15m,1 stop,economy,13:35,02:50+1,"AED 1,435",2023-12-04
+KLM,CMN,IST,22h 20m,2 stops,economy,16:35,16:55+1,AED 775,2023-12-04
+KLM,CMN,IST,22h 20m,2 stops,economy,16:35,16:55+1,AED 776,2023-12-04
+KLM,CMN,IST,22h 20m,2 stops,economy,16:35,16:55+1,AED 783,2023-12-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:10,11:05,"AED 2,363",2023-12-04
+TAP Portugal,CMN,PAR,7h 25m,1 stop,business,12:20,19:45,"AED 1,050",2023-12-04
+Royal Air Maroc,CMN,PAR,3h 00m,direct,business,13:25,16:25,"AED 2,363",2023-12-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,18:30,21:25,"AED 2,508",2023-12-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,14:10,17:05,"AED 2,508",2023-12-04
+Iberia,CMN,PAR,5h 05m,1 stop,business,13:35,18:40,"AED 2,180",2023-12-04
+Iberia,CMN,PAR,6h 35m,1 stop,business,13:35,20:10,"AED 1,388",2023-12-04
+Air France,CMN,PAR,3h 15m,direct,business,19:15,22:30,"AED 4,155",2023-12-04
+Air France,CMN,PAR,3h 10m,direct,business,11:20,14:30,"AED 4,155",2023-12-04
+Air France,CMN,PAR,3h 15m,direct,business,16:35,19:50,"AED 4,155",2023-12-04
+Air France,CMN,PAR,3h 15m,direct,business,08:10,11:25,"AED 4,155",2023-12-04
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,15:10,"AED 4,680",2023-12-04
+TAP Portugal,CMN,PAR,9h 20m,1 stop,business,12:20,21:40,"AED 1,050",2023-12-04
+TAP Portugal,CMN,PAR,10h 40m,1 stop,business,12:20,23:00,"AED 1,051",2023-12-04
+Iberia,CMN,PAR,10h 10m,1 stop,business,13:35,23:45,"AED 1,393",2023-12-04
+TAP Portugal,CMN,ROM,6h 25m,1 stop,business,12:20,18:45,AED 975,2023-12-04
+Iberia,CMN,ROM,5h 05m,1 stop,business,19:00,00:05+1,"AED 1,507",2023-12-04
+Iberia,CMN,ROM,6h 05m,1 stop,business,13:35,19:40,"AED 1,504",2023-12-04
+TAP Portugal,CMN,ROM,12h 05m,1 stop,business,12:20,00:25+1,AED 976,2023-12-04
+Iberia,CMN,ROM,8h 00m,1 stop,business,16:05,00:05+1,"AED 1,610",2023-12-04
+Tunisair,CMN,ROM,6h 40m,1 stop,business,02:35,09:15,"AED 2,330",2023-12-04
+Lufthansa,CMN,ROM,6h 30m,1 stop,business,02:25,08:55,"AED 2,870",2023-12-04
+TAP Portugal,CMN,ROM,23h 05m,1 stop,business,12:20,11:25+1,"AED 1,004",2023-12-04
+TAP Portugal,CMN,ROM,27h 35m,1 stop,business,12:20,15:55+1,"AED 1,006",2023-12-04
+Iberia,CMN,ROM,10h 30m,1 stop,business,13:35,00:05+1,"AED 1,504",2023-12-04
+Iberia,CMN,ROM,9h 25m,1 stop,business,10:15,19:40,"AED 1,618",2023-12-04
+Air France,CMN,ROM,6h 20m,1 stop,business,11:20,17:40,"AED 3,508",2023-12-04
+Air France,CMN,ROM,6h 30m,1 stop,business,08:10,14:40,"AED 3,508",2023-12-04
+Egypt Air,CMN,ROM,11h 35m,1 stop,business,00:55,12:30,"AED 3,016",2023-12-04
+Iberia,CMN,ROM,16h 10m,1 stop,business,19:00,11:10+1,"AED 1,520",2023-12-04
+Royal Air Maroc,CMN,IST,4h 50m,direct,business,09:50,16:40,"AED 3,025",2023-12-04
+KLM,CMN,IST,19h 40m,2 stops,business,19:15,16:55+1,"AED 2,862",2023-12-04
+Turkish Airlines,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 3,859",2023-12-04
+Royal Air Maroc,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 6,392",2023-12-04
+Turkish Airlines,CMN,IST,4h 50m,direct,business,09:50,16:40,"AED 6,174",2023-12-04
+Egypt Air,CMN,IST,10h 05m,1 stop,business,00:55,13:00,"AED 2,936",2023-12-04
+Egypt Air,CMN,IST,9h 10m,1 stop,business,13:35,00:45+1,"AED 3,476",2023-12-04
+Egypt Air,CMN,IST,11h 15m,1 stop,business,13:35,02:50+1,"AED 2,911",2023-12-04
+Egypt Air,CMN,IST,11h 55m,1 stop,business,23:05,13:00+1,"AED 2,943",2023-12-04
+Egypt Air,CMN,IST,14h 55m,1 stop,business,00:55,17:50,"AED 2,927",2023-12-04
+Egypt Air,CMN,IST,10h 40m,1 stop,business,00:55,13:35,"AED 3,963",2023-12-04
+Egypt Air,CMN,IST,16h 45m,1 stop,business,23:05,17:50+1,"AED 2,971",2023-12-04
+Egypt Air,CMN,IST,12h 30m,1 stop,business,23:05,13:35+1,"AED 3,934",2023-12-04
+Qatar Airways,CMN,IST,15h 00m,1 stop,business,14:00,07:00+1,"AED 8,510",2023-12-04
+Egypt Air,CMN,IST,23h 55m,1 stop,business,00:55,02:50+1,"AED 2,959",2023-12-04
+Transavia France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,AED 459,2024-01-12
+TAP Portugal,CMN,PAR,10h 10m,1 stop,economy,11:30,21:40,AED 402,2024-01-12
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,12:20,15:10,AED 511,2024-01-12
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,16:15,19:10,AED 511,2024-01-12
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,14:10,17:05,AED 528,2024-01-12
+Air France,CMN,PAR,3h 15m,direct,economy,16:35,19:50,AED 728,2024-01-12
+Royal Air Maroc,CMN,PAR,3h 00m,direct,economy,13:25,16:25,AED 761,2024-01-12
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:10,11:05,AED 797,2024-01-12
+Air France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,AED 820,2024-01-12
+Air France,CMN,PAR,3h 15m,direct,economy,08:10,11:25,"AED 1,334",2024-01-12
+Iberia,CMN,PAR,6h 10m,1 stop,economy,16:05,22:15,AED 544,2024-01-12
+Iberia,CMN,PAR,7h 40m,1 stop,economy,16:05,23:45,AED 544,2024-01-12
+Transavia,CMN,PAR,11h 10m,1 stop,economy,21:15,08:25+1,AED 523,2024-01-12
+Iberia,CMN,PAR,12h 00m,1 stop,economy,10:15,22:15,AED 545,2024-01-12
+Iberia,CMN,PAR,5h 05m,1 stop,economy,13:35,18:40,AED 979,2024-01-12
+Royal Air Maroc,CMN,ROM,3h 10m,direct,economy,13:00,16:10,AED 637,2024-01-12
+Air Arabia Maroc,CMN,ROM,10h 40m,1 stop,economy,12:45,23:25,AED 407,2024-01-12
+ITA Airways,CMN,ROM,3h 10m,direct,economy,13:00,16:10,AED 917,2024-01-12
+Iberia,CMN,ROM,6h 05m,1 stop,economy,13:35,19:40,AED 929,2024-01-12
+Royal Air Maroc,CMN,ROM,5h 50m,1 stop,economy,14:50,20:40,AED 815,2024-01-12
+Iberia,CMN,ROM,8h 00m,1 stop,economy,16:05,00:05+1,AED 557,2024-01-12
+TAP Portugal,CMN,ROM,7h 15m,1 stop,economy,11:30,18:45,AED 974,2024-01-12
+Air Arabia Maroc,CMN,ROM,7h 50m,1 stop,economy,07:20,15:10,AED 634,2024-01-12
+Iberia,CMN,ROM,8h 00m,1 stop,economy,10:15,18:15,AED 791,2024-01-12
+Iberia,CMN,ROM,9h 25m,1 stop,economy,10:15,19:40,AED 557,2024-01-12
+Air France,CMN,ROM,6h 30m,1 stop,economy,08:10,14:40,"AED 1,323",2024-01-12
+Iberia,CMN,ROM,8h 15m,2 stops,economy,10:00,18:15,"AED 1,120",2024-01-12
+Lufthansa,CMN,ROM,6h 40m,1 stop,economy,02:25,09:05,"AED 1,644",2024-01-12
+Iberia,CMN,ROM,10h 30m,1 stop,economy,13:35,00:05+1,AED 876,2024-01-12
+Iberia,CMN,ROM,9h 40m,2 stops,economy,10:00,19:40,"AED 1,040",2024-01-12
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 603,2024-01-12
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 642,2024-01-12
+Royal Air Maroc,CMN,IST,4h 45m,direct,economy,09:55,16:40,AED 933,2024-01-12
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,01:10,07:55,AED 724,2024-01-12
+Turkish Airlines,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 1,264",2024-01-12
+Royal Air Maroc,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 2,136",2024-01-12
+Turkish Airlines,CMN,IST,4h 45m,direct,economy,09:55,16:40,"AED 2,217",2024-01-12
+Royal Air Maroc,CMN,IST,7h 15m,1 stop,economy,13:00,22:15,"AED 1,014",2024-01-12
+Air Arabia Maroc,CMN,IST,8h 20m,1 stop,economy,07:20,17:40,AED 760,2024-01-12
+Royal Air Maroc,CMN,IST,8h 45m,1 stop,economy,10:15,21:00,AED 852,2024-01-12
+Air Arabia Maroc,CMN,IST,9h 55m,1 stop,economy,07:20,19:15,AED 823,2024-01-12
+Egypt Air,CMN,IST,10h 05m,1 stop,economy,00:55,13:00,"AED 1,440",2024-01-12
+Egypt Air,CMN,IST,9h 50m,1 stop,economy,01:10,13:00,"AED 1,596",2024-01-12
+Egypt Air,CMN,IST,11h 15m,1 stop,economy,13:35,02:50+1,"AED 1,428",2024-01-12
+Egypt Air,CMN,IST,9h 10m,1 stop,economy,13:35,00:45+1,"AED 2,555",2024-01-12
+TAP Portugal,CMN,PAR,8h 15m,1 stop,business,11:30,19:45,"AED 1,066",2024-01-12
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,16:15,19:10,"AED 2,369",2024-01-12
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:10,11:05,"AED 2,369",2024-01-12
+Royal Air Maroc,CMN,PAR,3h 00m,direct,business,13:25,16:25,"AED 2,377",2024-01-12
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,15:10,"AED 2,516",2024-01-12
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,14:10,17:05,"AED 2,515",2024-01-12
+Iberia,CMN,PAR,5h 05m,1 stop,business,13:35,18:40,"AED 1,383",2024-01-12
+Air France,CMN,PAR,3h 15m,direct,business,19:15,22:30,"AED 3,200",2024-01-12
+Air France,CMN,PAR,3h 15m,direct,business,16:35,19:50,"AED 3,200",2024-01-12
+Air France,CMN,PAR,3h 15m,direct,business,08:10,11:25,"AED 3,200",2024-01-12
+TAP Portugal,CMN,PAR,10h 10m,1 stop,business,11:30,21:40,"AED 1,069",2024-01-12
+TAP Portugal,CMN,PAR,11h 30m,1 stop,business,11:30,23:00,"AED 1,066",2024-01-12
+Iberia,CMN,PAR,6h 35m,1 stop,business,13:35,20:10,"AED 1,388",2024-01-12
+Iberia,CMN,PAR,6h 10m,1 stop,business,16:05,22:15,"AED 1,479",2024-01-12
+Iberia,CMN,PAR,6h 20m,1 stop,business,10:15,16:35,"AED 1,479",2024-01-12
+Royal Air Maroc,CMN,ROM,3h 10m,direct,business,13:00,16:10,"AED 2,562",2024-01-12
+TAP Portugal,CMN,ROM,7h 15m,1 stop,business,11:30,18:45,AED 986,2024-01-12
+Iberia,CMN,ROM,6h 05m,1 stop,business,13:35,19:40,"AED 1,508",2024-01-12
+ITA Airways,CMN,ROM,3h 10m,direct,business,13:00,16:10,"AED 3,706",2024-01-12
+Lufthansa,CMN,ROM,6h 40m,1 stop,business,02:25,09:05,"AED 2,210",2024-01-12
+Air France,CMN,ROM,6h 30m,1 stop,business,08:10,14:40,"AED 3,508",2024-01-12
+Iberia,CMN,ROM,10h 30m,1 stop,business,13:35,00:05+1,"AED 1,511",2024-01-12
+TAP Portugal,CMN,ROM,12h 25m,1 stop,business,11:30,23:55,AED 990,2024-01-12
+Iberia,CMN,ROM,10h 05m,2 stops,business,09:35,19:40,"AED 3,570",2024-01-12
+Iberia,CMN,ROM,10h 05m,2 stops,business,09:35,19:40,"AED 4,090",2024-01-12
+Egypt Air,CMN,ROM,11h 35m,1 stop,business,00:55,12:30,"AED 3,065",2024-01-12
+Egypt Air,CMN,ROM,11h 20m,1 stop,business,01:10,12:30,"AED 3,761",2024-01-12
+Iberia,CMN,ROM,16h 10m,1 stop,business,19:00,11:10+1,"AED 1,520",2024-01-12
+Iberia,CMN,ROM,18h 55m,1 stop,business,19:00,13:55+1,"AED 1,562",2024-01-12
+Air France,CMN,ROM,19h 10m,1 stop,business,16:35,11:45+1,"AED 2,011",2024-01-12
+Royal Air Maroc,CMN,IST,4h 45m,direct,business,09:55,16:40,"AED 3,035",2024-01-12
+Air France,CMN,IST,19h 50m,1 stop,business,19:15,17:05+1,"AED 1,935",2024-01-12
+Turkish Airlines,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 3,861",2024-01-12
+Tunisair,CMN,IST,6h 45m,1 stop,business,02:35,11:20,"AED 2,397",2024-01-12
+Lufthansa,CMN,IST,13h 20m,1 stop,business,02:25,17:45,"AED 1,940",2024-01-12
+Royal Air Maroc,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 6,444",2024-01-12
+Turkish Airlines,CMN,IST,4h 45m,direct,business,09:55,16:40,"AED 6,174",2024-01-12
+Lufthansa,CMN,IST,18h 10m,1 stop,business,02:25,22:35,"AED 1,940",2024-01-12
+Air France,CMN,IST,22h 30m,1 stop,business,16:35,17:05+1,"AED 1,938",2024-01-12
+Egypt Air,CMN,IST,9h 50m,1 stop,business,01:10,13:00,"AED 2,981",2024-01-12
+Egypt Air,CMN,IST,10h 05m,1 stop,business,00:55,13:00,"AED 3,061",2024-01-12
+Tunisair,CMN,IST,18h 00m,1 stop,business,02:35,22:35,"AED 2,420",2024-01-12
+Egypt Air,CMN,IST,9h 10m,1 stop,business,13:35,00:45+1,"AED 3,534",2024-01-12
+Egypt Air,CMN,IST,11h 15m,1 stop,business,13:35,02:50+1,"AED 3,113",2024-01-12
+Kuwait Airways,CMN,IST,11h 40m,1 stop,business,13:30,03:10+1,"AED 5,841",2024-01-12
+TUI Fly Belgium,CMN,PAR,3h 30m,direct,economy,07:15,10:45,AED 358,2024-02-10
+Air France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,AED 476,2024-02-10
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,12:20,15:10,AED 527,2024-02-10
+Royal Air Maroc,CMN,PAR,3h 00m,direct,economy,08:15,11:15,AED 527,2024-02-10
+Royal Air Maroc,CMN,PAR,3h 00m,direct,economy,13:25,16:25,AED 527,2024-02-10
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,18:30,21:25,AED 551,2024-02-10
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,14:10,17:05,AED 551,2024-02-10
+Air France,CMN,PAR,3h 15m,direct,economy,16:35,19:50,AED 637,2024-02-10
+Air France,CMN,PAR,3h 15m,direct,economy,08:10,11:25,AED 670,2024-02-10
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:10,11:05,AED 705,2024-02-10
+Transavia,CMN,PAR,10h 40m,1 stop,economy,20:35,07:15+1,AED 402,2024-02-10
+Transavia France,CMN,PAR,10h 40m,1 stop,economy,20:35,07:15+1,AED 453,2024-02-10
+Transavia France,CMN,PAR,15h 05m,1 stop,economy,20:35,11:40+1,AED 453,2024-02-10
+TAP Portugal,CMN,PAR,6h 10m,1 stop,economy,16:50,23:00,AED 690,2024-02-10
+Iberia,CMN,PAR,5h 05m,1 stop,economy,13:35,18:40,AED 777,2024-02-10
+Royal Air Maroc,CMN,ROM,3h 10m,direct,economy,13:00,16:10,AED 535,2024-02-10
+TAP Portugal,CMN,ROM,7h 15m,1 stop,economy,16:50,00:05+1,AED 363,2024-02-10
+TAP Portugal,CMN,ROM,6h 25m,1 stop,economy,12:20,18:45,AED 367,2024-02-10
+ITA Airways,CMN,ROM,3h 10m,direct,economy,13:00,16:10,AED 921,2024-02-10
+TAP Portugal,CMN,ROM,11h 45m,1 stop,economy,12:20,00:05+1,AED 363,2024-02-10
+Lufthansa,CMN,ROM,8h 20m,1 stop,economy,14:20,22:40,AED 598,2024-02-10
+TAP Portugal,CMN,ROM,23h 05m,1 stop,economy,12:20,11:25+1,AED 439,2024-02-10
+Air France,CMN,ROM,6h 30m,1 stop,economy,08:10,14:40,AED 833,2024-02-10
+TAP Portugal,CMN,ROM,18h 35m,1 stop,economy,16:50,11:25+1,AED 480,2024-02-10
+Transavia France,CMN,ROM,21h 25m,1 stop,economy,20:35,18:00+1,AED 535,2024-02-10
+Tunisair,CMN,ROM,6h 45m,1 stop,economy,02:35,09:20,AED 886,2024-02-10
+Air France,CMN,ROM,9h 30m,1 stop,economy,08:10,17:40,AED 833,2024-02-10
+KLM,CMN,ROM,20h 55m,1 stop,economy,19:30,16:25+1,AED 660,2024-02-10
+Pegasus Airlines,CMN,ROM,10h 15m,1 stop,economy,01:10,11:25,AED 952,2024-02-10
+Iberia,CMN,ROM,6h 05m,1 stop,economy,13:35,19:40,"AED 1,099",2024-02-10
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 599,2024-02-10
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:50,23:30,AED 642,2024-02-10
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,01:10,07:55,AED 881,2024-02-10
+Turkish Airlines,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 1,261",2024-02-10
+Royal Air Maroc,CMN,IST,4h 45m,direct,economy,09:55,16:40,"AED 1,375",2024-02-10
+Royal Air Maroc,CMN,IST,4h 35m,direct,economy,17:10,23:45,"AED 2,134",2024-02-10
+Turkish Airlines,CMN,IST,4h 45m,direct,economy,09:55,16:40,"AED 2,793",2024-02-10
+Royal Air Maroc,CMN,IST,8h 15m,1 stop,economy,07:50,18:05,AED 966,2024-02-10
+Tunisair,CMN,IST,7h 15m,1 stop,economy,02:35,11:50,"AED 1,402",2024-02-10
+Air Arabia Maroc,CMN,IST,9h 10m,1 stop,economy,06:50,18:00,"AED 1,002",2024-02-10
+Royal Air Maroc,CMN,IST,8h 55m,1 stop,economy,10:15,21:10,"AED 1,198",2024-02-10
+Egypt Air,CMN,IST,10h 05m,1 stop,economy,00:55,13:00,"AED 1,439",2024-02-10
+Air Arabia Maroc,CMN,IST,11h 05m,1 stop,economy,07:00,20:05,AED 828,2024-02-10
+Egypt Air,CMN,IST,11h 15m,1 stop,economy,13:35,02:50+1,"AED 1,424",2024-02-10
+Egypt Air,CMN,IST,9h 10m,1 stop,economy,13:35,00:45+1,"AED 2,459",2024-02-10
+TAP Portugal,CMN,PAR,7h 25m,1 stop,business,12:20,19:45,"AED 1,062",2024-02-10
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:10,11:05,"AED 2,373",2024-02-10
+TAP Portugal,CMN,PAR,6h 10m,1 stop,business,16:50,23:00,"AED 1,068",2024-02-10
+Royal Air Maroc,CMN,PAR,3h 00m,direct,business,13:25,16:25,"AED 2,377",2024-02-10
+Royal Air Maroc,CMN,PAR,3h 00m,direct,business,08:15,11:15,"AED 2,377",2024-02-10
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,15:10,"AED 2,525",2024-02-10
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,18:30,21:25,"AED 2,523",2024-02-10
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,14:10,17:05,"AED 2,523",2024-02-10
+Iberia,CMN,PAR,5h 05m,1 stop,business,13:35,18:40,"AED 1,381",2024-02-10
+Air France,CMN,PAR,3h 15m,direct,business,08:10,11:25,"AED 3,200",2024-02-10
+Air France,CMN,PAR,3h 15m,direct,business,16:35,19:50,"AED 3,200",2024-02-10
+Air France,CMN,PAR,3h 15m,direct,business,19:15,22:30,"AED 3,200",2024-02-10
+TAP Portugal,CMN,PAR,10h 40m,1 stop,business,12:20,23:00,"AED 1,068",2024-02-10
+TAP Portugal,CMN,PAR,18h 55m,1 stop,business,16:50,11:45+1,"AED 1,065",2024-02-10
+Iberia,CMN,PAR,7h 45m,1 stop,business,10:15,18:00,"AED 1,477",2024-02-10
+Royal Air Maroc,CMN,ROM,3h 10m,direct,business,13:00,16:10,"AED 2,568",2024-02-10
+TAP Portugal,CMN,ROM,7h 15m,1 stop,business,16:50,00:05+1,AED 981,2024-02-10
+ITA Airways,CMN,ROM,3h 10m,direct,business,13:00,16:10,"AED 3,679",2024-02-10
+TAP Portugal,CMN,ROM,6h 25m,1 stop,business,12:20,18:45,"AED 1,347",2024-02-10
+TAP Portugal,CMN,ROM,11h 45m,1 stop,business,12:20,00:05+1,AED 984,2024-02-10
+TAP Portugal,CMN,ROM,18h 35m,1 stop,business,16:50,11:25+1,AED 995,2024-02-10
+Iberia,CMN,ROM,6h 05m,1 stop,business,13:35,19:40,"AED 1,879",2024-02-10
+TAP Portugal,CMN,ROM,22h 55m,1 stop,business,16:50,15:45+1,"AED 1,009",2024-02-10
+TAP Portugal,CMN,ROM,23h 05m,1 stop,business,12:20,11:25+1,"AED 1,009",2024-02-10
+Lufthansa,CMN,ROM,8h 20m,1 stop,business,14:20,22:40,"AED 1,670",2024-02-10
+Iberia,CMN,ROM,8h 00m,1 stop,business,16:05,00:05+1,"AED 1,599",2024-02-10
+Iberia,CMN,ROM,8h 00m,1 stop,business,10:15,18:15,"AED 1,599",2024-02-10
+Iberia,CMN,ROM,9h 25m,1 stop,business,10:15,19:40,"AED 1,599",2024-02-10
+Tunisair,CMN,ROM,6h 45m,1 stop,business,02:35,09:20,"AED 2,330",2024-02-10
+Air France,CMN,ROM,6h 30m,1 stop,business,08:10,14:40,"AED 3,533",2024-02-10
+Royal Air Maroc,CMN,IST,4h 45m,direct,business,09:55,16:40,"AED 3,016",2024-02-10
+Lufthansa,CMN,IST,25h 45m,1 stop,business,14:20,18:05+1,"AED 2,074",2024-02-10
+Turkish Airlines,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 3,861",2024-02-10
+Royal Air Maroc,CMN,IST,4h 35m,direct,business,17:10,23:45,"AED 6,422",2024-02-10
+Turkish Airlines,CMN,IST,4h 45m,direct,business,09:55,16:40,"AED 6,174",2024-02-10
+Air France,CMN,IST,19h 50m,1 stop,business,19:15,17:05+1,"AED 2,208",2024-02-10
+Tunisair,CMN,IST,18h 00m,1 stop,business,02:35,22:35,"AED 2,420",2024-02-10
+Egypt Air,CMN,IST,10h 05m,1 stop,business,00:55,13:00,"AED 3,033",2024-02-10
+Egypt Air,CMN,IST,11h 15m,1 stop,business,13:35,02:50+1,"AED 2,970",2024-02-10
+Egypt Air,CMN,IST,11h 55m,1 stop,business,23:05,13:00+1,"AED 2,973",2024-02-10
+Egypt Air,CMN,IST,9h 10m,1 stop,business,13:35,00:45+1,"AED 3,523",2024-02-10
+Egypt Air,CMN,IST,14h 55m,1 stop,business,00:55,17:50,"AED 2,994",2024-02-10
+Egypt Air,CMN,IST,16h 45m,1 stop,business,23:05,17:50+1,"AED 2,987",2024-02-10
+Egypt Air,CMN,IST,10h 40m,1 stop,business,00:55,13:35,"AED 3,845",2024-02-10
+Qatar Airways,CMN,IST,13h 00m,1 stop,business,16:00,07:00+1,"AED 8,550",2024-02-10
+Royal Air Maroc,CMN,PAR,1h 55m,direct,economy,12:20,15:15,AED 523,2024-03-17
+Transavia France,CMN,PAR,3h 15m,direct,economy,18:15,22:30,AED 316,2024-03-17
+Royal Air Maroc,CMN,PAR,2h 00m,direct,economy,13:25,16:25,AED 523,2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,economy,18:30,21:25,AED 548,2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,economy,14:10,17:05,AED 548,2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,economy,08:10,11:05,AED 565,2024-03-17
+Air France,CMN,PAR,2h 15m,direct,economy,08:10,11:25,AED 503,2024-03-17
+TUI Fly Belgium,CMN,PAR,2h 30m,direct,economy,07:00,10:30,AED 565,2024-03-17
+Air France,CMN,PAR,2h 15m,direct,economy,19:15,22:30,AED 579,2024-03-17
+Air France,CMN,PAR,2h 15m,direct,economy,16:35,19:50,AED 634,2024-03-17
+TAP Portugal,CMN,PAR,6h 25m,1 stop,economy,12:20,19:45,AED 484,2024-03-17
+TAP Portugal,CMN,PAR,5h 05m,1 stop,economy,16:55,23:00,AED 848,2024-03-17
+Royal Air Maroc,CMN,PAR,7h 35m,1 stop,economy,11:00,19:35,AED 531,2024-03-17
+TAP Portugal,CMN,PAR,8h 20m,1 stop,economy,12:20,21:40,AED 570,2024-03-17
+Iberia,CMN,PAR,4h 05m,1 stop,economy,13:35,18:40,AED 963,2024-03-17
+Royal Air Maroc,CMN,ROM,2h 10m,direct,economy,13:00,16:10,AED 534,2024-03-17
+TAP Portugal,CMN,ROM,22h 05m,1 stop,economy,12:20,11:25+1,AED 397,2024-03-17
+ITA Airways,CMN,ROM,2h 10m,direct,economy,13:00,16:10,AED 938,2024-03-17
+TAP Portugal,CMN,ROM,6h 00m,1 stop,economy,16:55,23:55,AED 579,2024-03-17
+TAP Portugal,CMN,ROM,5h 25m,1 stop,economy,12:20,18:45,AED 578,2024-03-17
+Air France,CMN,ROM,5h 30m,1 stop,economy,08:10,14:40,AED 833,2024-03-17
+Iberia,CMN,ROM,5h 05m,1 stop,economy,13:35,19:40,"AED 1,116",2024-03-17
+Tunisair,CMN,ROM,5h 40m,1 stop,economy,02:35,09:15,AED 850,2024-03-17
+Iberia,CMN,ROM,7h 00m,1 stop,economy,16:05,00:05+1,AED 930,2024-03-17
+TAP Portugal,CMN,ROM,10h 35m,1 stop,economy,12:20,23:55,AED 440,2024-03-17
+Iberia,CMN,ROM,7h 00m,1 stop,economy,10:15,18:15,"AED 1,076",2024-03-17
+Air France,CMN,ROM,8h 30m,1 stop,economy,08:10,17:40,AED 833,2024-03-17
+Iberia,CMN,ROM,7h 15m,2 stops,economy,10:00,18:15,"AED 1,254",2024-03-17
+Iberia,CMN,ROM,8h 25m,1 stop,economy,10:15,19:40,"AED 1,076",2024-03-17
+Iberia,CMN,ROM,9h 30m,1 stop,economy,13:35,00:05+1,AED 933,2024-03-17
+Iberia,CMN,ROM,7h 40m,2 stops,economy,09:35,18:15,"AED 1,330",2024-03-17
+Royal Air Maroc,CMN,IST,3h 30m,direct,economy,10:10,16:40,AED 929,2024-03-17
+Royal Air Maroc,CMN,IST,23h 40m,2 stops,economy,11:00,13:40+1,AED 499,2024-03-17
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,15:50,23:30,AED 779,2024-03-17
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,15:50,23:30,AED 808,2024-03-17
+Turkish Airlines,CMN,IST,3h 35m,direct,economy,17:10,23:45,"AED 1,429",2024-03-17
+Pegasus Airlines,CMN,IST,3h 50m,direct,economy,01:10,08:00,"AED 1,150",2024-03-17
+Tunisair,CMN,IST,5h 45m,1 stop,economy,02:35,11:20,"AED 1,019",2024-03-17
+Royal Air Maroc,CMN,IST,3h 35m,direct,economy,17:10,23:45,"AED 2,131",2024-03-17
+Turkish Airlines,CMN,IST,3h 30m,direct,economy,10:10,16:40,"AED 2,211",2024-03-17
+Air Arabia Maroc,CMN,IST,8h 05m,1 stop,economy,12:10,23:15,AED 859,2024-03-17
+Air France,CMN,IST,8h 10m,1 stop,economy,08:10,19:20,"AED 1,176",2024-03-17
+Air France,CMN,IST,8h 35m,1 stop,economy,08:10,19:45,"AED 1,189",2024-03-17
+Royal Air Maroc,CMN,IST,9h 20m,2 stops,economy,16:00,04:20+1,"AED 1,124",2024-03-17
+Air Arabia Maroc,CMN,IST,9h 55m,1 stop,economy,06:35,19:30,"AED 1,046",2024-03-17
+Egypt Air,CMN,IST,10h 15m,1 stop,economy,13:35,02:50+1,"AED 2,204",2024-03-17
+Egypt Air,CMN,IST,10h 55m,1 stop,economy,23:05,13:00+1,"AED 2,018",2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,business,08:10,11:05,"AED 2,371",2024-03-17
+TAP Portugal,CMN,PAR,6h 25m,1 stop,business,12:20,19:45,"AED 1,069",2024-03-17
+Royal Air Maroc,CMN,PAR,2h 00m,direct,business,13:25,16:25,"AED 2,371",2024-03-17
+TAP Portugal,CMN,PAR,5h 05m,1 stop,business,16:55,23:00,"AED 1,073",2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,business,12:20,15:15,"AED 2,507",2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,business,18:30,21:25,"AED 2,520",2024-03-17
+Royal Air Maroc,CMN,PAR,1h 55m,direct,business,14:10,17:05,"AED 2,520",2024-03-17
+Iberia,CMN,PAR,4h 05m,1 stop,business,13:35,18:40,"AED 1,445",2024-03-17
+Air France,CMN,PAR,2h 15m,direct,business,08:10,11:25,"AED 3,200",2024-03-17
+Air France,CMN,PAR,2h 15m,direct,business,16:35,19:50,"AED 3,200",2024-03-17
+Air France,CMN,PAR,2h 15m,direct,business,19:15,22:30,"AED 3,200",2024-03-17
+Iberia,CMN,PAR,5h 35m,1 stop,business,13:35,20:10,"AED 1,430",2024-03-17
+Iberia,CMN,PAR,5h 10m,1 stop,business,16:05,22:15,"AED 1,490",2024-03-17
+TAP Portugal,CMN,PAR,8h 20m,1 stop,business,12:20,21:40,"AED 1,073",2024-03-17
+Iberia,CMN,PAR,5h 20m,1 stop,business,10:15,16:35,"AED 1,490",2024-03-17
+TAP Portugal,CMN,ROM,5h 25m,1 stop,business,12:20,18:45,AED 983,2024-03-17
+Royal Air Maroc,CMN,ROM,2h 10m,direct,business,13:00,16:10,"AED 2,569",2024-03-17
+TAP Portugal,CMN,ROM,6h 00m,1 stop,business,16:55,23:55,AED 990,2024-03-17
+Iberia,CMN,ROM,5h 05m,1 stop,business,13:35,19:40,"AED 1,621",2024-03-17
+ITA Airways,CMN,ROM,2h 10m,direct,business,13:00,16:10,"AED 3,688",2024-03-17
+Iberia,CMN,ROM,7h 00m,1 stop,business,16:05,00:05+1,"AED 1,610",2024-03-17
+Iberia,CMN,ROM,8h 25m,1 stop,business,10:15,19:40,"AED 1,610",2024-03-17
+Iberia,CMN,ROM,7h 00m,1 stop,business,10:15,18:15,"AED 2,409",2024-03-17
+Tunisair,CMN,ROM,5h 40m,1 stop,business,02:35,09:15,"AED 2,330",2024-03-17
+TAP Portugal,CMN,ROM,10h 35m,1 stop,business,12:20,23:55,AED 986,2024-03-17
+Iberia,CMN,ROM,9h 30m,1 stop,business,13:35,00:05+1,"AED 1,514",2024-03-17
+Air France,CMN,ROM,5h 30m,1 stop,business,08:10,14:40,"AED 3,514",2024-03-17
+Iberia,CMN,ROM,9h 05m,2 stops,business,09:35,19:40,"AED 2,510",2024-03-17
+Iberia,CMN,ROM,7h 40m,2 stops,business,09:35,18:15,"AED 3,170",2024-03-17
+Iberia,CMN,ROM,9h 05m,2 stops,business,09:35,19:40,"AED 2,820",2024-03-17
+Royal Air Maroc,CMN,IST,3h 30m,direct,business,10:10,16:40,"AED 3,025",2024-03-17
+Tunisair,CMN,IST,5h 45m,1 stop,business,02:35,11:20,"AED 2,397",2024-03-17
+Turkish Airlines,CMN,IST,3h 35m,direct,business,17:10,23:45,"AED 3,861",2024-03-17
+Turkish Airlines,CMN,IST,3h 30m,direct,business,10:10,16:40,"AED 6,174",2024-03-17
+Royal Air Maroc,CMN,IST,3h 35m,direct,business,17:10,23:45,"AED 6,409",2024-03-17
+Egypt Air,CMN,IST,9h 05m,1 stop,business,00:55,13:00,"AED 3,061",2024-03-17
+Air France,CMN,IST,18h 55m,1 stop,business,19:15,17:10+1,"AED 2,685",2024-03-17
+Egypt Air,CMN,IST,10h 55m,1 stop,business,23:05,13:00+1,"AED 2,957",2024-03-17
+Egypt Air,CMN,IST,10h 15m,1 stop,business,13:35,02:50+1,"AED 3,058",2024-03-17
+Egypt Air,CMN,IST,8h 10m,1 stop,business,13:35,00:45+1,"AED 3,517",2024-03-17
+Egypt Air,CMN,IST,9h 40m,1 stop,business,00:55,13:35,"AED 3,515",2024-03-17
+Egypt Air,CMN,IST,13h 55m,1 stop,business,00:55,17:50,"AED 3,086",2024-03-17
+Kuwait Airways,CMN,IST,12h 10m,1 stop,business,19:30,10:40+1,"AED 4,950",2024-03-17
+Egypt Air,CMN,IST,15h 45m,1 stop,business,23:05,17:50+1,"AED 2,975",2024-03-17
+Egypt Air,CMN,IST,11h 30m,1 stop,business,23:05,13:35+1,"AED 3,503",2024-03-17
+Royal Air Maroc,CMN,PAR,2h 45m,direct,economy,12:20,16:05,AED 637,2024-04-18
+TAP Portugal,CMN,PAR,15h 30m,1 stop,economy,17:00,09:30+1,AED 412,2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,18:35,22:25,AED 657,2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,10:20,14:10,AED 637,2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,AED 657,2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,AED 678,2024-04-18
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,AED 759,2024-04-18
+Transavia France,CMN,PAR,3h 00m,direct,economy,16:55,20:55,AED 678,2024-04-18
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 431,2024-04-18
+Air France,CMN,PAR,3h 00m,direct,economy,18:20,22:20,"AED 1,016",2024-04-18
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,"AED 1,168",2024-04-18
+Royal Air Maroc,CMN,PAR,5h 55m,1 stop,economy,08:00,14:55,AED 652,2024-04-18
+Iberia,CMN,PAR,4h 50m,1 stop,economy,12:40,18:30,"AED 1,091",2024-04-18
+Royal Air Maroc,CMN,PAR,5h 35m,1 stop,economy,16:10,22:45,AED 752,2024-04-18
+Royal Air Maroc,CMN,PAR,6h 35m,1 stop,economy,16:10,23:45,AED 664,2024-04-18
+Air France,CMN,PAR,3h 05m,direct,economy,10:20,14:25,"AED 1,836",2024-04-18
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,AED 533,2024-04-18
+TAP Portugal,CMN,ROM,16h 20m,1 stop,economy,17:00,10:20+1,AED 390,2024-04-18
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 582,2024-04-18
+TAP Portugal,CMN,ROM,25h 10m,1 stop,economy,17:00,19:10+1,AED 460,2024-04-18
+Iberia,CMN,ROM,6h 00m,1 stop,economy,12:40,19:40,"AED 1,307",2024-04-18
+Tunisair,CMN,ROM,9h 30m,1 stop,economy,02:00,12:30,AED 955,2024-04-18
+TAP Portugal,CMN,ROM,18h 50m,1 stop,economy,17:00,12:50+1,AED 669,2024-04-18
+TAP Portugal,CMN,ROM,22h 45m,1 stop,economy,17:00,16:45+1,AED 683,2024-04-18
+Air France,CMN,ROM,6h 20m,1 stop,economy,15:50,23:10,"AED 1,600",2024-04-18
+KLM,CMN,ROM,21h 15m,2 stops,economy,18:20,16:35+1,"AED 1,899",2024-04-18
+Lufthansa,CMN,ROM,7h 05m,1 stop,economy,01:15,09:20,"AED 1,563",2024-04-18
+Tunisair,CMN,ROM,23h 40m,1 stop,economy,11:50,12:30+1,"AED 1,030",2024-04-18
+Air France,CMN,ROM,20h 55m,1 stop,economy,18:20,16:15+1,AED 990,2024-04-18
+Air France,CMN,ROM,16h 10m,1 stop,economy,15:50,09:00+1,"AED 1,137",2024-04-18
+Iberia,CMN,ROM,10h 25m,1 stop,economy,12:40,00:05+1,"AED 1,307",2024-04-18
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,18:00,00:40+1,AED 658,2024-04-18
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,18:00,00:40+1,AED 679,2024-04-18
+Royal Air Maroc,CMN,IST,4h 25m,direct,economy,10:15,16:40,"AED 1,214",2024-04-18
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,373",2024-04-18
+Royal Air Maroc,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 2,129",2024-04-18
+Royal Air Maroc,CMN,IST,8h 45m,1 stop,economy,08:00,18:45,AED 971,2024-04-18
+Air France,CMN,IST,9h 35m,1 stop,economy,15:50,03:25+1,"AED 1,075",2024-04-18
+Multiple Airlines,CMN,IST,18h 15m,2 stops,economy,16:30,12:45+1,AED 795,2024-04-18
+Tunisair,CMN,IST,7h 20m,1 stop,economy,02:00,11:20,"AED 1,127",2024-04-18
+Royal Air Maroc,CMN,IST,8h 00m,1 stop,economy,12:55,22:55,"AED 1,053",2024-04-18
+Air Arabia Maroc,CMN,IST,9h 45m,1 stop,economy,07:00,18:45,AED 981,2024-04-18
+Air Arabia Maroc,CMN,IST,8h 15m,1 stop,economy,07:00,17:15,"AED 1,062",2024-04-18
+Tunisair,CMN,IST,8h 45m,1 stop,economy,11:50,22:35,"AED 1,140",2024-04-18
+Royal Air Maroc,CMN,IST,8h 10m,1 stop,economy,08:00,18:10,"AED 1,111",2024-04-18
+Egypt Air,CMN,IST,10h 15m,1 stop,economy,00:45,13:00,"AED 1,419",2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,10:20,14:10,"AED 2,368",2024-04-18
+Iberia,CMN,PAR,10h 05m,1 stop,business,12:40,23:45,"AED 1,689",2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,08:10,12:00,"AED 2,368",2024-04-18
+Royal Air Maroc,CMN,PAR,2h 45m,direct,business,12:20,16:05,"AED 2,519",2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,18:35,22:25,"AED 2,517",2024-04-18
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,13:25,17:20,"AED 2,368",2024-04-18
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,14:15,18:05,"AED 2,517",2024-04-18
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-04-18
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-04-18
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-04-18
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-04-18
+Iberia,CMN,PAR,4h 50m,1 stop,business,12:40,18:30,"AED 1,730",2024-04-18
+TAP Portugal,CMN,PAR,5h 00m,1 stop,business,17:00,23:00,"AED 1,929",2024-04-18
+Iberia,CMN,PAR,6h 30m,1 stop,business,12:40,20:10,"AED 1,730",2024-04-18
+Tunisair,CMN,PAR,6h 45m,1 stop,business,02:00,09:45,"AED 2,252",2024-04-18
+Lufthansa,CMN,PAR,6h 15m,1 stop,business,01:15,08:30,"AED 2,930",2024-04-18
+Royal Air Maroc,CMN,ROM,3h 05m,direct,business,12:35,16:40,"AED 2,564",2024-04-18
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,"AED 1,696",2024-04-18
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,916",2024-04-18
+TAP Portugal,CMN,ROM,16h 20m,1 stop,business,17:00,10:20+1,"AED 1,696",2024-04-18
+TAP Portugal,CMN,ROM,18h 50m,1 stop,business,17:00,12:50+1,"AED 1,699",2024-04-18
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,890",2024-04-18
+TAP Portugal,CMN,ROM,22h 45m,1 stop,business,17:00,16:45+1,"AED 1,715",2024-04-18
+Lufthansa,CMN,ROM,7h 05m,1 stop,business,01:15,09:20,"AED 2,873",2024-04-18
+Tunisair,CMN,ROM,9h 30m,1 stop,business,02:00,12:30,"AED 2,330",2024-04-18
+Air France,CMN,ROM,6h 15m,1 stop,business,10:20,17:35,"AED 3,508",2024-04-18
+Air France,CMN,ROM,7h 55m,1 stop,business,10:20,19:15,"AED 2,780",2024-04-18
+Air France,CMN,ROM,6h 20m,1 stop,business,15:50,23:10,"AED 3,508",2024-04-18
+Iberia,CMN,ROM,21h 30m,1 stop,business,12:40,11:10+1,"AED 1,897",2024-04-18
+Egypt Air,CMN,ROM,11h 15m,1 stop,business,00:45,13:00,"AED 3,052",2024-04-18
+Lufthansa,CMN,ROM,10h 20m,1 stop,business,01:15,12:35,"AED 2,880",2024-04-18
+Royal Air Maroc,CMN,IST,4h 25m,direct,business,10:15,16:40,"AED 3,045",2024-04-18
+Egypt Air,CMN,IST,11h 20m,1 stop,business,13:30,02:50+1,"AED 3,039",2024-04-18
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 4,092",2024-04-18
+Royal Air Maroc,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 6,413",2024-04-18
+Egypt Air,CMN,IST,10h 15m,1 stop,business,00:45,13:00,"AED 3,104",2024-04-18
+Egypt Air,CMN,IST,8h 35m,1 stop,business,13:30,00:05+1,"AED 3,672",2024-04-18
+Egypt Air,CMN,IST,9h 30m,1 stop,business,00:45,12:15,"AED 3,514",2024-04-18
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-04-18
+Egypt Air,CMN,IST,14h 50m,1 stop,business,00:45,17:35,"AED 3,130",2024-04-18
+Egypt Air,CMN,IST,21h 30m,1 stop,business,13:30,13:00+1,"AED 3,080",2024-04-18
+Egypt Air,CMN,IST,26h 05m,1 stop,business,13:30,17:35+1,"AED 3,092",2024-04-18
+Egypt Air,CMN,IST,24h 05m,1 stop,business,00:45,02:50+1,"AED 3,176",2024-04-18
+Kuwait Airways,CMN,IST,14h 40m,1 stop,business,12:40,05:20+1,"AED 4,993",2024-04-18
+Egypt Air,CMN,IST,15h 00m,1 stop,business,13:30,06:30+1,"AED 3,551",2024-04-18
+SAUDIA,CMN,IST,13h 10m,1 stop,business,19:10,10:20+1,"AED 5,506",2024-04-18
+Transavia France,CMN,PAR,3h 00m,direct,economy,11:30,15:30,AED 382,2024-05-29
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 301,2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,12:20,16:10,AED 510,2024-05-29
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,AED 511,2024-05-29
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:00,11:55,AED 511,2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,18:35,22:25,AED 527,2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,AED 527,2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,AED 552,2024-05-29
+Air France,CMN,PAR,3h 05m,direct,economy,07:30,11:35,AED 547,2024-05-29
+Air France,CMN,PAR,3h 05m,direct,economy,10:20,14:25,AED 626,2024-05-29
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,AED 639,2024-05-29
+Air France,CMN,PAR,3h 00m,direct,economy,18:20,22:20,AED 700,2024-05-29
+TAP Portugal,CMN,PAR,7h 50m,1 stop,economy,11:25,20:15,AED 430,2024-05-29
+TAP Portugal,CMN,PAR,15h 30m,1 stop,economy,17:00,09:30+1,AED 365,2024-05-29
+TAP Portugal,CMN,PAR,9h 10m,1 stop,economy,11:25,21:35,AED 430,2024-05-29
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,AED 535,2024-05-29
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 398,2024-05-29
+Iberia,CMN,ROM,5h 20m,1 stop,economy,17:45,00:05+1,AED 430,2024-05-29
+TAP Portugal,CMN,ROM,6h 45m,1 stop,economy,11:25,19:10,AED 685,2024-05-29
+Air France,CMN,ROM,6h 20m,1 stop,economy,15:50,23:10,AED 720,2024-05-29
+TAP Portugal,CMN,ROM,11h 40m,1 stop,economy,11:25,00:05+1,AED 600,2024-05-29
+Air France,CMN,ROM,6h 15m,1 stop,economy,10:20,17:35,AED 860,2024-05-29
+TAP Portugal,CMN,ROM,22h 45m,1 stop,economy,17:00,16:45+1,AED 610,2024-05-29
+Pegasus Airlines,CMN,ROM,9h 40m,1 stop,economy,00:10,10:50,AED 768,2024-05-29
+Iberia,CMN,ROM,6h 00m,1 stop,economy,12:40,19:40,"AED 1,320",2024-05-29
+Air France,CMN,ROM,9h 05m,1 stop,economy,07:30,17:35,AED 760,2024-05-29
+Air France,CMN,ROM,7h 45m,1 stop,economy,07:30,16:15,AED 900,2024-05-29
+Air France,CMN,ROM,7h 55m,1 stop,economy,10:20,19:15,AED 880,2024-05-29
+Air France,CMN,ROM,11h 50m,1 stop,economy,10:20,23:10,AED 700,2024-05-29
+Transavia France,CMN,ROM,10h 05m,1 stop,economy,11:30,22:35,AED 757,2024-05-29
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,AED 652,2024-05-29
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,AED 679,2024-05-29
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,00:10,06:55,AED 720,2024-05-29
+Royal Air Maroc,CMN,IST,4h 25m,direct,economy,10:15,16:40,AED 934,2024-05-29
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,260",2024-05-29
+Royal Air Maroc,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 2,129",2024-05-29
+Air Arabia Maroc,CMN,IST,8h 50m,1 stop,economy,08:55,19:45,AED 902,2024-05-29
+Royal Air Maroc,CMN,IST,8h 00m,1 stop,economy,10:00,20:00,AED 983,2024-05-29
+Transavia France,CMN,IST,8h 20m,1 stop,economy,11:30,21:50,"AED 1,007",2024-05-29
+Transavia France,CMN,IST,10h 05m,1 stop,economy,11:30,23:35,AED 965,2024-05-29
+Royal Air Maroc,CMN,IST,10h 05m,1 stop,economy,10:00,22:05,AED 983,2024-05-29
+Multiple Airlines,CMN,IST,18h 30m,2 stops,economy,08:55,05:25+1,AED 891,2024-05-29
+Royal Air Maroc,CMN,IST,8h 35m,1 stop,economy,13:05,23:40,"AED 1,081",2024-05-29
+Royal Air Maroc,CMN,IST,8h 35m,1 stop,economy,08:10,18:45,"AED 1,151",2024-05-29
+Air Arabia Maroc,CMN,IST,12h 45m,1 stop,economy,08:55,23:40,AED 997,2024-05-29
+TAP Portugal,CMN,PAR,6h 30m,1 stop,business,11:25,18:55,"AED 1,072",2024-05-29
+TAP Portugal,CMN,PAR,5h 00m,1 stop,business,17:00,23:00,"AED 1,075",2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,08:10,12:00,"AED 2,368",2024-05-29
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,13:25,17:20,"AED 2,368",2024-05-29
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:00,11:55,"AED 2,368",2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,18:35,22:25,"AED 2,520",2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,14:15,18:05,"AED 2,520",2024-05-29
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,16:10,"AED 2,520",2024-05-29
+TAP Portugal,CMN,PAR,7h 50m,1 stop,business,11:25,20:15,"AED 1,075",2024-05-29
+Iberia,CMN,PAR,5h 00m,1 stop,business,17:45,23:45,"AED 1,430",2024-05-29
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-05-29
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-05-29
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-05-29
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-05-29
+TAP Portugal,CMN,PAR,9h 10m,1 stop,business,11:25,21:35,"AED 1,074",2024-05-29
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,AED 983,2024-05-29
+Royal Air Maroc,CMN,ROM,3h 05m,direct,business,12:35,16:40,"AED 2,567",2024-05-29
+Iberia,CMN,ROM,5h 20m,1 stop,business,17:45,00:05+1,"AED 1,568",2024-05-29
+TAP Portugal,CMN,ROM,11h 40m,1 stop,business,11:25,00:05+1,AED 986,2024-05-29
+TAP Portugal,CMN,ROM,6h 45m,1 stop,business,11:25,19:10,"AED 1,378",2024-05-29
+TAP Portugal,CMN,ROM,22h 45m,1 stop,business,17:00,16:45+1,"AED 1,011",2024-05-29
+TAP Portugal,CMN,ROM,25h 10m,1 stop,business,17:00,19:10+1,"AED 1,013",2024-05-29
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,916",2024-05-29
+Air France,CMN,ROM,6h 15m,1 stop,business,10:20,17:35,"AED 1,968",2024-05-29
+Air France,CMN,ROM,6h 20m,1 stop,business,15:50,23:10,"AED 2,120",2024-05-29
+TAP Portugal,CMN,ROM,16h 20m,1 stop,business,17:00,10:20+1,"AED 1,388",2024-05-29
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,550",2024-05-29
+TAP Portugal,CMN,ROM,21h 55m,1 stop,business,11:25,10:20+1,"AED 1,390",2024-05-29
+Air France,CMN,ROM,7h 45m,1 stop,business,07:30,16:15,"AED 2,120",2024-05-29
+Air France,CMN,ROM,9h 05m,1 stop,business,07:30,17:35,"AED 1,977",2024-05-29
+Royal Air Maroc,CMN,IST,4h 25m,direct,business,10:15,16:40,"AED 3,150",2024-05-29
+Tunisair,CMN,IST,7h 25m,1 stop,business,02:00,11:25,"AED 2,410",2024-05-29
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 3,861",2024-05-29
+Tunisair,CMN,IST,18h 35m,1 stop,business,02:00,22:35,"AED 2,440",2024-05-29
+Egypt Air,CMN,IST,11h 20m,1 stop,business,13:30,02:50+1,"AED 3,165",2024-05-29
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-05-29
+Lufthansa,CMN,IST,18h 05m,1 stop,business,01:15,21:20,"AED 2,773",2024-05-29
+Lufthansa,CMN,IST,13h 45m,1 stop,business,01:15,17:00,"AED 3,320",2024-05-29
+Egypt Air,CMN,IST,21h 30m,1 stop,business,13:30,13:00+1,"AED 3,156",2024-05-29
+Egypt Air,CMN,IST,26h 05m,1 stop,business,13:30,17:35+1,"AED 3,156",2024-05-29
+SAUDIA,CMN,IST,13h 10m,1 stop,business,19:10,10:20+1,"AED 6,762",2024-05-29
+Qatar Airways,CMN,IST,13h 05m,1 stop,business,20:40,11:45+1,"AED 8,510",2024-05-29
+Air France,CMN,IST,28h 10m,1 stop,business,10:20,16:30+1,"AED 3,361",2024-05-29
+Egypt Air,CMN,IST,15h 00m,1 stop,business,13:30,06:30+1,"AED 5,508",2024-05-29
+Qatar Airways,CMN,IST,14h 30m,1 stop,business,20:40,13:10+1,"AED 8,360",2024-05-29
+Air France,CMN,PAR,3h 00m,direct,economy,18:20,22:20,AED 443,2024-06-01
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 299,2024-06-01
+Royal Air Maroc,CMN,PAR,2h 45m,direct,economy,12:20,16:05,AED 528,2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,16:20,20:10,AED 527,2024-06-01
+Transavia France,CMN,PAR,3h 00m,direct,economy,11:15,15:15,AED 430,2024-06-01
+Air France,CMN,PAR,3h 05m,direct,economy,07:30,11:35,AED 485,2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,18:35,22:25,AED 552,2024-06-01
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,AED 528,2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,AED 552,2024-06-01
+Air France,CMN,PAR,3h 05m,direct,economy,10:20,14:25,AED 522,2024-06-01
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,AED 578,2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,AED 608,2024-06-01
+TAP Portugal,CMN,PAR,7h 50m,1 stop,economy,11:25,20:15,AED 363,2024-06-01
+TAP Portugal,CMN,PAR,6h 30m,1 stop,economy,11:25,18:55,AED 695,2024-06-01
+TAP Portugal,CMN,PAR,9h 10m,1 stop,economy,11:25,21:35,AED 363,2024-06-01
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,AED 535,2024-06-01
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 393,2024-06-01
+TAP Portugal,CMN,ROM,11h 40m,1 stop,economy,11:25,00:05+1,AED 512,2024-06-01
+TAP Portugal,CMN,ROM,18h 50m,1 stop,economy,17:00,12:50+1,AED 510,2024-06-01
+TAP Portugal,CMN,ROM,6h 45m,1 stop,economy,11:25,19:10,AED 919,2024-06-01
+Pegasus Airlines,CMN,ROM,9h 40m,1 stop,economy,00:10,10:50,AED 744,2024-06-01
+Air France,CMN,ROM,6h 20m,1 stop,economy,15:50,23:10,AED 980,2024-06-01
+Air France,CMN,ROM,6h 15m,1 stop,economy,10:20,17:35,"AED 1,180",2024-06-01
+Iberia,CMN,ROM,6h 00m,1 stop,economy,12:40,19:40,"AED 1,320",2024-06-01
+Transavia France,CMN,ROM,10h 20m,1 stop,economy,11:15,22:35,AED 810,2024-06-01
+Air France,CMN,ROM,7h 55m,1 stop,economy,10:20,19:15,"AED 1,068",2024-06-01
+TAP Portugal,CMN,ROM,24h 25m,1 stop,economy,11:25,12:50+1,AED 696,2024-06-01
+Transavia France,CMN,ROM,23h 35m,1 stop,economy,19:25,20:00+1,AED 713,2024-06-01
+TAP Portugal,CMN,ROM,16h 20m,1 stop,economy,17:00,10:20+1,AED 776,2024-06-01
+Air France,CMN,ROM,7h 45m,1 stop,economy,07:30,16:15,"AED 1,220",2024-06-01
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,00:10,06:55,AED 606,2024-06-01
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,AED 724,2024-06-01
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,AED 753,2024-06-01
+Royal Air Maroc,CMN,IST,4h 25m,direct,economy,10:15,16:40,"AED 1,347",2024-06-01
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,456",2024-06-01
+Air Arabia Maroc,CMN,IST,10h 45m,1 stop,economy,06:00,18:45,AED 688,2024-06-01
+Royal Air Maroc,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 2,097",2024-06-01
+Air Arabia Maroc,CMN,IST,9h 00m,1 stop,economy,06:00,17:00,AED 837,2024-06-01
+Transavia France,CMN,IST,15h 05m,1 stop,economy,19:25,12:30+1,AED 872,2024-06-01
+Transavia France,CMN,IST,10h 20m,1 stop,economy,11:15,23:35,AED 905,2024-06-01
+Royal Air Maroc,CMN,IST,8h 00m,1 stop,economy,12:55,22:55,"AED 1,053",2024-06-01
+Air Arabia Maroc,CMN,IST,9h 00m,1 stop,economy,07:30,18:30,AED 977,2024-06-01
+Air Arabia Maroc,CMN,IST,8h 35m,1 stop,economy,07:30,18:05,"AED 1,004",2024-06-01
+Transavia France,CMN,IST,8h 35m,1 stop,economy,11:15,21:50,"AED 1,052",2024-06-01
+Royal Air Maroc,CMN,IST,8h 10m,1 stop,economy,07:55,18:05,"AED 1,053",2024-06-01
+TAP Portugal,CMN,PAR,6h 30m,1 stop,business,11:25,18:55,"AED 1,072",2024-06-01
+TAP Portugal,CMN,PAR,5h 00m,1 stop,business,17:00,23:00,"AED 1,074",2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,16:20,20:10,"AED 2,368",2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,08:10,12:00,"AED 2,368",2024-06-01
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,13:25,17:20,"AED 2,368",2024-06-01
+Royal Air Maroc,CMN,PAR,2h 45m,direct,business,12:20,16:05,"AED 2,521",2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,18:35,22:25,"AED 2,518",2024-06-01
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,14:15,18:05,"AED 2,518",2024-06-01
+Iberia,CMN,PAR,4h 50m,1 stop,business,12:40,18:30,"AED 1,430",2024-06-01
+TAP Portugal,CMN,PAR,7h 50m,1 stop,business,11:25,20:15,"AED 1,075",2024-06-01
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-06-01
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-06-01
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-06-01
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-06-01
+TAP Portugal,CMN,PAR,9h 10m,1 stop,business,11:25,21:35,"AED 1,074",2024-06-01
+Royal Air Maroc,CMN,ROM,3h 05m,direct,business,12:35,16:40,"AED 2,566",2024-06-01
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,AED 983,2024-06-01
+TAP Portugal,CMN,ROM,6h 45m,1 stop,business,11:25,19:10,"AED 1,378",2024-06-01
+TAP Portugal,CMN,ROM,11h 40m,1 stop,business,11:25,00:05+1,AED 986,2024-06-01
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,550",2024-06-01
+TAP Portugal,CMN,ROM,16h 20m,1 stop,business,17:00,10:20+1,AED 993,2024-06-01
+TAP Portugal,CMN,ROM,18h 50m,1 stop,business,17:00,12:50+1,AED 998,2024-06-01
+TAP Portugal,CMN,ROM,21h 55m,1 stop,business,11:25,10:20+1,AED 998,2024-06-01
+TAP Portugal,CMN,ROM,24h 25m,1 stop,business,11:25,12:50+1,"AED 1,013",2024-06-01
+Air France,CMN,ROM,6h 15m,1 stop,business,10:20,17:35,"AED 2,240",2024-06-01
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,550",2024-06-01
+Air France,CMN,ROM,7h 55m,1 stop,business,10:20,19:15,"AED 2,220",2024-06-01
+TAP Portugal,CMN,ROM,25h 10m,1 stop,business,17:00,19:10+1,"AED 1,406",2024-06-01
+Lufthansa,CMN,ROM,7h 05m,1 stop,business,01:15,09:20,"AED 2,880",2024-06-01
+Iberia,CMN,ROM,18h 20m,1 stop,business,18:35,13:55+1,"AED 1,648",2024-06-01
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 4,160",2024-06-01
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-06-01
+Lufthansa,CMN,IST,13h 45m,1 stop,business,01:15,17:00,"AED 3,320",2024-06-01
+Kuwait Airways,CMN,IST,23h 40m,1 stop,business,12:40,14:20+1,"AED 4,948",2024-06-01
+Qatar Airways,CMN,IST,13h 05m,1 stop,business,20:40,11:45+1,"AED 9,240",2024-06-01
+Qatar Airways,CMN,IST,14h 30m,1 stop,business,20:40,13:10+1,"AED 8,931",2024-06-01
+Kuwait Airways,CMN,IST,14h 40m,1 stop,business,12:40,05:20+1,"AED 8,620",2024-06-01
+Gulf Air,CMN,IST,20h 00m,1 stop,business,08:00,06:00+1,"AED 7,444",2024-06-01
+Kuwait Airways,CMN,IST,22h 40m,1 stop,business,12:40,13:20+1,"AED 6,700",2024-06-01
+British Airways,CMN,IST,21h 15m,2 stops,business,18:35,17:50+1,"AED 4,170",2024-06-01
+British Airways,CMN,IST,22h 30m,2 stops,business,18:35,19:05+1,"AED 4,170",2024-06-01
+Emirates,CMN,IST,20h 20m,1 stop,business,14:45,13:05+1,"AED 7,999",2024-06-01
+British Airways,CMN,IST,27h 45m,2 stops,business,18:35,00:20+2,"AED 4,170",2024-06-01
+British Airways,CMN,IST,19h 10m,2 stops,business,18:35,15:45+1,"AED 4,770",2024-06-01
+Etihad Airways,CMN,IST,18h 50m,1 stop,business,09:25,06:15+1,"AED 8,670",2024-06-01
+Transavia France,CMN,PAR,3h 00m,direct,economy,16:55,20:55,AED 204,2024-07-04
+Air France,CMN,PAR,3h 00m,direct,economy,18:20,22:20,AED 492,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 45m,direct,economy,12:20,16:05,AED 511,2024-07-04
+Air France,CMN,PAR,3h 05m,direct,economy,07:30,11:35,AED 492,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,16:50,20:40,AED 511,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,AED 511,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,02:50,06:45,AED 511,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:00,11:55,AED 511,2024-07-04
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 362,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,03:10,07:00,AED 527,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,AED 527,2024-07-04
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,AED 552,2024-07-04
+Air France,CMN,PAR,3h 05m,direct,economy,10:20,14:25,AED 564,2024-07-04
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,AED 635,2024-07-04
+TAP Portugal,CMN,PAR,21h 50m,1 stop,economy,17:00,15:50+1,AED 299,2024-07-04
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 393,2024-07-04
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,AED 944,2024-07-04
+TAP Portugal,CMN,ROM,18h 50m,1 stop,economy,17:00,12:50+1,AED 510,2024-07-04
+Iberia,CMN,ROM,6h 00m,1 stop,economy,12:40,19:40,"AED 1,120",2024-07-04
+Transavia France,CMN,ROM,23h 00m,1 stop,economy,16:55,16:55+1,AED 633,2024-07-04
+TAP Portugal,CMN,ROM,16h 20m,1 stop,economy,17:00,10:20+1,AED 775,2024-07-04
+Iberia,CMN,ROM,10h 25m,1 stop,economy,12:40,00:05+1,AED 940,2024-07-04
+Lufthansa,CMN,ROM,7h 05m,1 stop,economy,01:15,09:20,"AED 1,220",2024-07-04
+Air France,CMN,ROM,6h 20m,1 stop,economy,15:50,23:10,"AED 1,420",2024-07-04
+Air France,CMN,ROM,7h 45m,1 stop,economy,07:30,16:15,"AED 1,250",2024-07-04
+Air France,CMN,ROM,9h 05m,1 stop,economy,07:30,17:35,"AED 1,250",2024-07-04
+TAP Portugal,CMN,ROM,22h 45m,1 stop,economy,17:00,16:45+1,AED 942,2024-07-04
+TAP Portugal,CMN,ROM,25h 10m,1 stop,economy,17:00,19:10+1,AED 944,2024-07-04
+Air France,CMN,ROM,7h 55m,1 stop,economy,10:20,19:15,"AED 1,474",2024-07-04
+Air France,CMN,ROM,21h 35m,1 stop,economy,18:20,16:55+1,AED 942,2024-07-04
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,18:00,00:40+1,"AED 1,179",2024-07-04
+TAP Portugal,CMN,IST,21h 15m,2 stops,economy,17:00,16:15+1,AED 806,2024-07-04
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,18:00,00:40+1,"AED 1,214",2024-07-04
+Royal Air Maroc,CMN,IST,4h 25m,direct,economy,10:15,16:40,"AED 1,345",2024-07-04
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,460",2024-07-04
+Royal Air Maroc,CMN,IST,12h 25m,1 stop,economy,13:40,04:05+1,"AED 1,078",2024-07-04
+Royal Air Maroc,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 2,097",2024-07-04
+Royal Air Maroc,CMN,IST,13h 35m,1 stop,economy,12:30,04:05+1,"AED 1,078",2024-07-04
+Royal Air Maroc,CMN,IST,8h 30m,1 stop,economy,13:40,00:10+1,"AED 1,485",2024-07-04
+Egypt Air,CMN,IST,11h 20m,1 stop,economy,13:30,02:50+1,"AED 1,422",2024-07-04
+Royal Air Maroc,CMN,IST,9h 20m,1 stop,economy,13:40,01:00+1,"AED 1,485",2024-07-04
+Royal Air Maroc,CMN,IST,14h 25m,1 stop,economy,13:40,06:05+1,"AED 1,177",2024-07-04
+TAP Portugal,CMN,IST,15h 45m,2 stops,economy,17:00,10:45+1,"AED 1,151",2024-07-04
+Royal Air Maroc,CMN,IST,15h 35m,1 stop,economy,12:30,06:05+1,"AED 1,177",2024-07-04
+Royal Air Maroc,CMN,IST,8h 50m,1 stop,economy,12:40,23:30,"AED 1,680",2024-07-04
+Lufthansa,CMN,IST,9h 50m,1 stop,economy,01:15,13:05,"AED 1,876",2024-07-04
+TAP Portugal,CMN,PAR,5h 00m,1 stop,business,17:00,23:00,"AED 1,150",2024-07-04
+Iberia,CMN,PAR,4h 50m,1 stop,business,12:40,18:30,"AED 1,430",2024-07-04
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-07-04
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-07-04
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-07-04
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-07-04
+Iberia,CMN,PAR,6h 30m,1 stop,business,12:40,20:10,"AED 1,430",2024-07-04
+Iberia,CMN,PAR,8h 30m,1 stop,business,12:40,22:10,"AED 1,430",2024-07-04
+Lufthansa,CMN,PAR,6h 15m,1 stop,business,01:15,08:30,"AED 2,930",2024-07-04
+Iberia,CMN,PAR,10h 05m,1 stop,business,12:40,23:45,"AED 1,430",2024-07-04
+Lufthansa,CMN,PAR,7h 35m,1 stop,business,01:15,09:50,"AED 2,930",2024-07-04
+British Airways,CMN,PAR,9h 10m,2 stops,business,12:40,22:50,"AED 3,810",2024-07-04
+British Airways,CMN,PAR,9h 10m,2 stops,business,12:40,22:50,"AED 3,810",2024-07-04
+British Airways,CMN,PAR,9h 10m,2 stops,business,12:40,22:50,"AED 3,810",2024-07-04
+Lufthansa,CMN,PAR,9h 05m,2 stops,business,01:15,11:20,"AED 3,110",2024-07-04
+Royal Air Maroc,CMN,ROM,3h 05m,direct,business,12:35,16:40,"AED 3,156",2024-07-04
+TAP Portugal,CMN,ROM,16h 20m,1 stop,business,17:00,10:20+1,AED 991,2024-07-04
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,"AED 1,377",2024-07-04
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,550",2024-07-04
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,550",2024-07-04
+TAP Portugal,CMN,ROM,18h 50m,1 stop,business,17:00,12:50+1,"AED 1,391",2024-07-04
+Lufthansa,CMN,ROM,7h 05m,1 stop,business,01:15,09:20,"AED 2,201",2024-07-04
+TAP Portugal,CMN,ROM,25h 10m,1 stop,business,17:00,19:10+1,"AED 1,407",2024-07-04
+Air France,CMN,ROM,6h 20m,1 stop,business,15:50,23:10,"AED 3,508",2024-07-04
+Air France,CMN,ROM,13h 40m,1 stop,business,18:20,09:00+1,"AED 1,983",2024-07-04
+Tunisair,CMN,ROM,9h 30m,1 stop,business,02:00,12:30,"AED 2,330",2024-07-04
+Iberia,CMN,ROM,25h 50m,1 stop,business,12:40,15:30+1,"AED 1,640",2024-07-04
+TAP Portugal,CMN,ROM,22h 45m,1 stop,business,17:00,16:45+1,"AED 1,743",2024-07-04
+Lufthansa,CMN,ROM,10h 20m,1 stop,business,01:15,12:35,"AED 2,559",2024-07-04
+Lufthansa,CMN,ROM,11h 35m,1 stop,business,01:15,13:50,"AED 2,558",2024-07-04
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 4,160",2024-07-04
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-07-04
+Lufthansa,CMN,IST,13h 45m,1 stop,business,01:15,17:00,"AED 3,320",2024-07-04
+Kuwait Airways,CMN,IST,14h 40m,1 stop,business,12:40,05:20+1,"AED 8,620",2024-07-04
+Kuwait Airways,CMN,IST,18h 20m,1 stop,business,12:40,09:00+1,"AED 8,620",2024-07-04
+Kuwait Airways,CMN,IST,19h 35m,1 stop,business,12:40,10:15+1,"AED 8,620",2024-07-04
+Emirates,CMN,IST,20h 20m,1 stop,business,14:45,13:05+1,"AED 7,993",2024-07-04
+Qatar Airways,CMN,IST,19h 35m,1 stop,business,14:10,11:45+1,"AED 9,200",2024-07-04
+British Airways,CMN,IST,23h 05m,2 stops,business,12:40,13:45+1,"AED 4,570",2024-07-04
+Emirates,CMN,IST,21h 40m,1 stop,business,14:45,14:25+1,"AED 8,242",2024-07-04
+Kuwait Airways,CMN,IST,22h 40m,1 stop,business,12:40,13:20+1,"AED 6,700",2024-07-04
+Qatar Airways,CMN,IST,21h 00m,1 stop,business,14:10,13:10+1,"AED 9,736",2024-07-04
+Kuwait Airways,CMN,IST,23h 40m,1 stop,business,12:40,14:20+1,"AED 5,682",2024-07-04
+Emirates,CMN,IST,25h 10m,1 stop,business,14:45,17:55+1,"AED 8,242",2024-07-04
+Kuwait Airways,CMN,IST,25h 05m,1 stop,business,12:40,15:45+1,"AED 8,620",2024-07-04
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 588,2024-08-16
+TAP Portugal,CMN,PAR,21h 05m,1 stop,economy,11:25,09:30+1,AED 499,2024-08-16
+Royal Air Maroc,CMN,PAR,2h 45m,direct,economy,12:20,16:05,"AED 1,175",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,16:50,20:40,"AED 1,171",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:00,11:55,"AED 1,170",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,02:50,06:45,"AED 1,170",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,"AED 1,170",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,"AED 1,191",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,"AED 1,210",2024-08-16
+Transavia France,CMN,PAR,3h 00m,direct,economy,17:40,21:40,"AED 1,234",2024-08-16
+Iberia,CMN,PAR,6h 30m,1 stop,economy,12:40,20:10,AED 711,2024-08-16
+Vueling,CMN,PAR,6h 30m,1 stop,economy,12:40,20:10,AED 727,2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,03:10,07:00,"AED 1,338",2024-08-16
+TAP Portugal,CMN,PAR,9h 10m,1 stop,economy,11:25,21:35,AED 686,2024-08-16
+Air France,CMN,PAR,3h 05m,direct,economy,07:30,11:35,"AED 1,378",2024-08-16
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,"AED 1,378",2024-08-16
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,"AED 1,269",2024-08-16
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 774,2024-08-16
+TAP Portugal,CMN,ROM,11h 40m,1 stop,economy,11:25,00:05+1,AED 774,2024-08-16
+TAP Portugal,CMN,ROM,6h 45m,1 stop,economy,11:25,19:10,"AED 1,211",2024-08-16
+Royal Air Maroc,CMN,ROM,10h 00m,1 stop,economy,12:40,23:40,AED 923,2024-08-16
+Pegasus Airlines,CMN,ROM,9h 40m,1 stop,economy,00:10,10:50,"AED 1,197",2024-08-16
+Iberia,CMN,ROM,5h 20m,1 stop,economy,17:45,00:05+1,"AED 1,560",2024-08-16
+TAP Portugal,CMN,ROM,11h 15m,2 stops,economy,11:25,23:40,AED 859,2024-08-16
+TAP Portugal,CMN,ROM,11h 15m,2 stops,economy,11:25,23:40,AED 859,2024-08-16
+TAP Portugal,CMN,ROM,16h 30m,2 stops,economy,17:00,10:30+1,AED 808,2024-08-16
+Iberia,CMN,ROM,6h 00m,1 stop,economy,12:40,19:40,"AED 1,560",2024-08-16
+TAP Portugal,CMN,ROM,16h 20m,1 stop,economy,17:00,10:20+1,AED 927,2024-08-16
+Air Arabia Maroc,CMN,ROM,6h 45m,1 stop,economy,07:35,15:20,"AED 1,334",2024-08-16
+Pegasus Airlines,CMN,ROM,12h 35m,1 stop,economy,00:10,13:45,"AED 1,197",2024-08-16
+TAP Portugal,CMN,ROM,10h 40m,2 stops,economy,11:25,23:05,AED 983,2024-08-16
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,18:00,00:40+1,"AED 1,176",2024-08-16
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,00:10,06:55,AED 932,2024-08-16
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,18:00,00:40+1,"AED 1,214",2024-08-16
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,455",2024-08-16
+Royal Air Maroc,CMN,IST,4h 25m,direct,economy,10:15,16:40,"AED 1,819",2024-08-16
+Royal Air Maroc,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 2,081",2024-08-16
+Royal Air Maroc,CMN,IST,4h 30m,direct,economy,01:30,08:00,"AED 2,075",2024-08-16
+Air France,CMN,IST,9h 35m,1 stop,economy,15:50,03:25+1,"AED 1,009",2024-08-16
+Egypt Air,CMN,IST,10h 15m,1 stop,economy,00:45,13:00,"AED 1,416",2024-08-16
+Egypt Air,CMN,IST,11h 20m,1 stop,economy,13:30,02:50+1,"AED 1,421",2024-08-16
+Lufthansa,CMN,IST,9h 50m,1 stop,economy,01:15,13:05,"AED 2,092",2024-08-16
+Air France,CMN,IST,15h 05m,1 stop,economy,10:20,03:25+1,"AED 1,192",2024-08-16
+Qatar Airways,CMN,IST,13h 05m,1 stop,economy,20:40,11:45+1,"AED 2,464",2024-08-16
+Egypt Air,CMN,IST,14h 50m,1 stop,economy,00:45,17:35,"AED 1,425",2024-08-16
+Qatar Airways,CMN,IST,14h 30m,1 stop,economy,20:40,13:10+1,"AED 2,397",2024-08-16
+TAP Portugal,CMN,PAR,5h 00m,1 stop,business,17:00,23:00,"AED 1,516",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,16:50,20:40,"AED 2,365",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,08:10,12:00,"AED 2,365",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:00,11:55,"AED 2,365",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,13:25,17:20,"AED 2,365",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,02:50,06:45,"AED 2,365",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 45m,direct,business,12:20,16:05,"AED 2,511",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,03:10,07:00,"AED 2,507",2024-08-16
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,14:15,18:05,"AED 2,507",2024-08-16
+TAP Portugal,CMN,PAR,7h 50m,1 stop,business,11:25,20:15,"AED 1,517",2024-08-16
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-08-16
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-08-16
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-08-16
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-08-16
+TAP Portugal,CMN,PAR,9h 10m,1 stop,business,11:25,21:35,"AED 1,517",2024-08-16
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,"AED 1,450",2024-08-16
+TAP Portugal,CMN,ROM,6h 45m,1 stop,business,11:25,19:10,"AED 1,450",2024-08-16
+Iberia,CMN,ROM,5h 20m,1 stop,business,17:45,00:05+1,"AED 1,890",2024-08-16
+TAP Portugal,CMN,ROM,28h 20m,1 stop,business,11:25,16:45+1,"AED 2,220",2024-08-16
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,890",2024-08-16
+Air France,CMN,ROM,6h 20m,1 stop,business,15:50,23:10,"AED 2,220",2024-08-16
+TAP Portugal,CMN,ROM,11h 40m,1 stop,business,11:25,00:05+1,"AED 1,450",2024-08-16
+TAP Portugal,CMN,ROM,16h 20m,1 stop,business,17:00,10:20+1,"AED 1,450",2024-08-16
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,890",2024-08-16
+TAP Portugal,CMN,ROM,18h 50m,1 stop,business,17:00,12:50+1,"AED 1,450",2024-08-16
+Lufthansa,CMN,ROM,7h 05m,1 stop,business,01:15,09:20,"AED 3,770",2024-08-16
+TAP Portugal,CMN,ROM,21h 55m,1 stop,business,11:25,10:20+1,"AED 1,450",2024-08-16
+Air France,CMN,ROM,7h 45m,1 stop,business,07:30,16:15,"AED 3,510",2024-08-16
+TAP Portugal,CMN,ROM,24h 25m,1 stop,business,11:25,12:50+1,"AED 1,460",2024-08-16
+TAP Portugal,CMN,ROM,25h 10m,1 stop,business,17:00,19:10+1,"AED 1,460",2024-08-16
+Air France,CMN,IST,9h 35m,1 stop,business,15:50,03:25+1,"AED 1,874",2024-08-16
+Royal Air Maroc,CMN,IST,4h 25m,direct,business,10:15,16:40,"AED 3,559",2024-08-16
+Royal Air Maroc,CMN,IST,4h 30m,direct,business,01:30,08:00,"AED 3,556",2024-08-16
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 4,083",2024-08-16
+Air France,CMN,IST,15h 05m,1 stop,business,10:20,03:25+1,"AED 1,883",2024-08-16
+Royal Air Maroc,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 6,375",2024-08-16
+Egypt Air,CMN,IST,10h 15m,1 stop,business,00:45,13:00,"AED 3,094",2024-08-16
+Egypt Air,CMN,IST,11h 20m,1 stop,business,13:30,02:50+1,"AED 3,103",2024-08-16
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-08-16
+Egypt Air,CMN,IST,14h 50m,1 stop,business,00:45,17:35,"AED 3,124",2024-08-16
+Egypt Air,CMN,IST,21h 30m,1 stop,business,13:30,13:00+1,"AED 3,149",2024-08-16
+Egypt Air,CMN,IST,24h 05m,1 stop,business,00:45,02:50+1,"AED 3,173",2024-08-16
+Egypt Air,CMN,IST,26h 05m,1 stop,business,13:30,17:35+1,"AED 3,160",2024-08-16
+Lufthansa,CMN,IST,13h 45m,1 stop,business,01:15,17:00,"AED 3,320",2024-08-16
+Qatar Airways,CMN,IST,13h 05m,1 stop,business,20:40,11:45+1,"AED 8,950",2024-08-16
+Transavia France,CMN,PAR,3h 00m,direct,economy,18:00,22:00,AED 995,2024-09-03
+TAP Portugal,CMN,PAR,15h 30m,1 stop,economy,17:00,09:30+1,AED 425,2024-09-03
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 500,2024-09-03
+Air France,CMN,PAR,3h 00m,direct,economy,18:20,22:20,"AED 1,441",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,"AED 1,683",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,"AED 1,663",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:00,11:55,"AED 1,663",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,"AED 1,700",2024-09-03
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,"AED 1,596",2024-09-03
+Iberia,CMN,PAR,4h 50m,1 stop,economy,12:40,18:30,"AED 1,153",2024-09-03
+Air France,CMN,PAR,3h 05m,direct,economy,10:20,14:25,"AED 1,702",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,03:10,07:00,"AED 1,683",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,02:50,06:45,"AED 1,663",2024-09-03
+Air France,CMN,PAR,3h 05m,direct,economy,07:30,11:35,"AED 1,865",2024-09-03
+Iberia,CMN,PAR,6h 30m,1 stop,economy,12:40,20:10,"AED 1,092",2024-09-03
+Iberia,CMN,PAR,8h 30m,1 stop,economy,12:40,22:10,"AED 1,092",2024-09-03
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 563,2024-09-03
+TAP Portugal,CMN,ROM,25h 10m,1 stop,economy,17:00,19:10+1,AED 489,2024-09-03
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,"AED 1,267",2024-09-03
+TAP Portugal,CMN,ROM,18h 50m,1 stop,economy,17:00,12:50+1,AED 657,2024-09-03
+Iberia,CMN,ROM,6h 00m,1 stop,economy,12:40,19:40,"AED 1,560",2024-09-03
+Lufthansa,CMN,ROM,7h 05m,1 stop,economy,01:15,09:20,"AED 1,670",2024-09-03
+TAP Portugal,CMN,ROM,16h 20m,1 stop,economy,17:00,10:20+1,"AED 1,048",2024-09-03
+Air France,CMN,ROM,6h 20m,1 stop,economy,15:50,23:10,"AED 2,000",2024-09-03
+TAP Portugal,CMN,ROM,15h 10m,2 stops,economy,17:00,09:10+1,AED 881,2024-09-03
+TAP Portugal,CMN,ROM,14h 10m,2 stops,economy,17:00,08:10+1,AED 944,2024-09-03
+Egypt Air,CMN,ROM,11h 15m,1 stop,economy,00:45,13:00,"AED 1,807",2024-09-03
+TAP Portugal,CMN,ROM,16h 10m,2 stops,economy,17:00,10:10+1,AED 881,2024-09-03
+Air France,CMN,ROM,6h 15m,1 stop,economy,10:20,17:35,"AED 2,473",2024-09-03
+Iberia,CMN,ROM,10h 25m,1 stop,economy,12:40,00:05+1,"AED 1,560",2024-09-03
+Royal Air Maroc,CMN,ROM,6h 55m,1 stop,economy,03:10,11:05,"AED 2,068",2024-09-03
+TAP Portugal,CMN,ROM,17h 05m,2 stops,economy,17:00,11:05+1,AED 952,2024-09-03
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,"AED 1,176",2024-09-03
+TAP Portugal,CMN,IST,24h 45m,2 stops,economy,17:00,19:45+1,AED 885,2024-09-03
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,"AED 1,214",2024-09-03
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,455",2024-09-03
+Air France,CMN,IST,9h 35m,1 stop,economy,15:50,03:25+1,"AED 1,182",2024-09-03
+Royal Air Maroc,CMN,IST,4h 25m,direct,economy,10:15,16:40,"AED 1,816",2024-09-03
+TAP Portugal,CMN,IST,19h 50m,3 stops,economy,17:00,14:50+1,AED 924,2024-09-03
+Royal Air Maroc,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 2,081",2024-09-03
+Air France,CMN,IST,15h 05m,1 stop,economy,10:20,03:25+1,"AED 1,190",2024-09-03
+Egypt Air,CMN,IST,10h 15m,1 stop,economy,00:45,13:00,"AED 1,416",2024-09-03
+TAP Portugal,CMN,IST,20h 25m,2 stops,economy,17:00,15:25+1,"AED 1,029",2024-09-03
+Egypt Air,CMN,IST,11h 20m,1 stop,economy,13:30,02:50+1,"AED 1,420",2024-09-03
+TAP Portugal,CMN,IST,17h 45m,2 stops,economy,17:00,12:45+1,"AED 1,116",2024-09-03
+SAUDIA,CMN,IST,13h 10m,1 stop,economy,19:10,10:20+1,"AED 1,844",2024-09-03
+TAP Portugal,CMN,IST,16h 00m,2 stops,economy,17:00,11:00+1,"AED 1,193",2024-09-03
+Egypt Air,CMN,IST,14h 50m,1 stop,economy,00:45,17:35,"AED 1,425",2024-09-03
+Iberia,CMN,PAR,6h 30m,1 stop,business,12:40,20:10,"AED 1,381",2024-09-03
+Iberia,CMN,PAR,4h 50m,1 stop,business,12:40,18:30,"AED 1,382",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,08:10,12:00,"AED 2,365",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,13:25,17:20,"AED 2,365",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:00,11:55,"AED 2,365",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,02:50,06:45,"AED 2,365",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,14:15,18:05,"AED 2,511",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,16:10,"AED 2,511",2024-09-03
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,03:10,07:00,"AED 2,511",2024-09-03
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-09-03
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-09-03
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-09-03
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-09-03
+Iberia,CMN,PAR,8h 30m,1 stop,business,12:40,22:10,"AED 1,387",2024-09-03
+Iberia,CMN,PAR,10h 05m,1 stop,business,12:40,23:45,"AED 1,382",2024-09-03
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,"AED 1,347",2024-09-03
+Royal Air Maroc,CMN,ROM,3h 05m,direct,business,12:35,16:40,"AED 3,143",2024-09-03
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,868",2024-09-03
+TAP Portugal,CMN,ROM,16h 20m,1 stop,business,17:00,10:20+1,"AED 1,357",2024-09-03
+TAP Portugal,CMN,ROM,18h 50m,1 stop,business,17:00,12:50+1,"AED 1,365",2024-09-03
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,869",2024-09-03
+TAP Portugal,CMN,ROM,25h 10m,1 stop,business,17:00,19:10+1,"AED 1,379",2024-09-03
+Lufthansa,CMN,ROM,7h 05m,1 stop,business,01:15,09:20,"AED 2,880",2024-09-03
+Egypt Air,CMN,ROM,11h 15m,1 stop,business,00:45,13:00,"AED 3,036",2024-09-03
+Iberia,CMN,ROM,21h 30m,1 stop,business,12:40,11:10+1,"AED 1,927",2024-09-03
+Iberia,CMN,ROM,24h 15m,1 stop,business,12:40,13:55+1,"AED 1,928",2024-09-03
+Air France,CMN,ROM,6h 15m,1 stop,business,10:20,17:35,"AED 4,540",2024-09-03
+Air France,CMN,ROM,6h 20m,1 stop,business,15:50,23:10,"AED 4,540",2024-09-03
+Air France,CMN,ROM,7h 45m,1 stop,business,07:30,16:15,"AED 4,540",2024-09-03
+Lufthansa,CMN,ROM,11h 35m,1 stop,business,01:15,13:50,"AED 3,240",2024-09-03
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 4,160",2024-09-03
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-09-03
+Lufthansa,CMN,IST,13h 45m,1 stop,business,01:15,17:00,"AED 3,320",2024-09-03
+Kuwait Airways,CMN,IST,23h 40m,1 stop,business,12:40,14:20+1,"AED 4,921",2024-09-03
+Kuwait Airways,CMN,IST,14h 40m,1 stop,business,12:40,05:20+1,"AED 8,620",2024-09-03
+Kuwait Airways,CMN,IST,22h 40m,1 stop,business,12:40,13:20+1,"AED 6,700",2024-09-03
+Emirates,CMN,IST,20h 20m,1 stop,business,14:45,13:05+1,"AED 7,989",2024-09-03
+Kuwait Airways,CMN,IST,18h 20m,1 stop,business,12:40,09:00+1,"AED 8,620",2024-09-03
+Kuwait Airways,CMN,IST,19h 35m,1 stop,business,12:40,10:15+1,"AED 8,620",2024-09-03
+Emirates,CMN,IST,21h 40m,1 stop,business,14:45,14:25+1,"AED 8,242",2024-09-03
+Qatar Airways,CMN,IST,19h 35m,1 stop,business,14:10,11:45+1,"AED 9,200",2024-09-03
+Qatar Airways,CMN,IST,21h 00m,1 stop,business,14:10,13:10+1,"AED 8,970",2024-09-03
+Emirates,CMN,IST,24h 10m,1 stop,business,14:45,16:55+1,"AED 8,242",2024-09-03
+Emirates,CMN,IST,25h 10m,1 stop,business,14:45,17:55+1,"AED 8,242",2024-09-03
+Emirates,CMN,IST,28h 30m,1 stop,business,14:45,21:15+1,"AED 8,013",2024-09-03
+Transavia France,CMN,PAR,3h 00m,direct,economy,11:15,15:15,AED 259,2024-10-19
+TAP Portugal,CMN,PAR,5h 00m,1 stop,economy,17:00,23:00,AED 299,2024-10-19
+Royal Air Maroc,CMN,PAR,2h 45m,direct,economy,12:20,16:05,AED 527,2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,16:20,20:10,AED 527,2024-10-19
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,13:25,17:20,AED 527,2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,18:35,22:25,AED 551,2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,14:15,18:05,AED 551,2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,08:10,12:00,AED 567,2024-10-19
+Air France,CMN,PAR,3h 05m,direct,economy,10:20,14:25,AED 691,2024-10-19
+TAP Portugal,CMN,PAR,9h 10m,1 stop,economy,11:25,21:35,AED 299,2024-10-19
+Air France,CMN,PAR,3h 00m,direct,economy,15:50,19:50,AED 781,2024-10-19
+TAP Portugal,CMN,PAR,10h 35m,1 stop,economy,11:25,23:00,AED 299,2024-10-19
+Air France,CMN,PAR,3h 00m,direct,economy,18:20,22:20,AED 921,2024-10-19
+Air France,CMN,PAR,3h 05m,direct,economy,07:30,11:35,AED 946,2024-10-19
+TAP Portugal,CMN,PAR,7h 50m,1 stop,economy,11:25,20:15,AED 354,2024-10-19
+Royal Air Maroc,CMN,ROM,3h 05m,direct,economy,12:35,16:40,AED 533,2024-10-19
+TAP Portugal,CMN,ROM,6h 05m,1 stop,economy,17:00,00:05+1,AED 397,2024-10-19
+TAP Portugal,CMN,ROM,11h 40m,1 stop,economy,11:25,00:05+1,AED 397,2024-10-19
+TAP Portugal,CMN,ROM,6h 45m,1 stop,economy,11:25,19:10,AED 691,2024-10-19
+TAP Portugal,CMN,ROM,18h 50m,1 stop,economy,17:00,12:50+1,AED 515,2024-10-19
+Pegasus Airlines,CMN,ROM,9h 40m,1 stop,economy,00:10,10:50,AED 768,2024-10-19
+Air France,CMN,ROM,6h 20m,1 stop,economy,15:50,23:10,"AED 1,239",2024-10-19
+Pegasus Airlines,CMN,ROM,12h 35m,1 stop,economy,00:10,13:45,AED 768,2024-10-19
+TAP Portugal,CMN,ROM,24h 25m,1 stop,economy,11:25,12:50+1,AED 608,2024-10-19
+Air France,CMN,ROM,6h 15m,1 stop,economy,10:20,17:35,"AED 1,590",2024-10-19
+Transavia France,CMN,ROM,10h 20m,1 stop,economy,11:15,22:35,AED 948,2024-10-19
+TAP Portugal,CMN,ROM,25h 10m,1 stop,economy,17:00,19:10+1,AED 790,2024-10-19
+Lufthansa,CMN,ROM,7h 05m,1 stop,economy,01:15,09:20,"AED 1,670",2024-10-19
+Air France,CMN,ROM,7h 55m,1 stop,economy,10:20,19:15,"AED 1,440",2024-10-19
+Air France,CMN,ROM,7h 45m,1 stop,economy,07:30,16:15,"AED 1,731",2024-10-19
+Pegasus Airlines,CMN,IST,4h 45m,direct,economy,00:10,06:55,AED 610,2024-10-19
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,AED 853,2024-10-19
+Air Arabia Maroc,CMN,IST,4h 40m,direct,economy,16:40,23:20,AED 956,2024-10-19
+Turkish Airlines,CMN,IST,4h 40m,direct,economy,17:00,23:40,"AED 1,320",2024-10-19
+Transavia France,CMN,IST,15h 05m,1 stop,economy,19:25,12:30+1,"AED 1,116",2024-10-19
+Transavia France,CMN,IST,10h 20m,1 stop,economy,11:15,23:35,"AED 1,333",2024-10-19
+Transavia France,CMN,IST,26h 10m,1 stop,economy,11:15,15:25+1,"AED 1,333",2024-10-19
+Emirates,CMN,IST,20h 20m,1 stop,economy,14:45,13:05+1,"AED 2,016",2024-10-19
+Kuwait Airways,CMN,IST,14h 40m,1 stop,economy,12:40,05:20+1,"AED 2,610",2024-10-19
+Lufthansa,CMN,IST,9h 50m,1 stop,economy,01:15,13:05,"AED 2,538",2024-10-19
+Emirates,CMN,IST,21h 40m,1 stop,economy,14:45,14:25+1,"AED 2,016",2024-10-19
+Etihad Airways,CMN,IST,18h 50m,1 stop,economy,09:25,06:15+1,"AED 2,450",2024-10-19
+Emirates,CMN,IST,24h 10m,1 stop,economy,14:45,16:55+1,"AED 2,016",2024-10-19
+Lufthansa,CMN,IST,18h 05m,1 stop,economy,01:15,21:20,"AED 1,900",2024-10-19
+Emirates,CMN,IST,25h 10m,1 stop,economy,14:45,17:55+1,"AED 2,016",2024-10-19
+TAP Portugal,CMN,PAR,6h 30m,1 stop,business,11:25,18:55,"AED 1,068",2024-10-19
+TAP Portugal,CMN,PAR,5h 00m,1 stop,business,17:00,23:00,"AED 1,072",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,16:20,20:10,"AED 2,368",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,08:10,12:00,"AED 2,368",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,13:25,17:20,"AED 2,368",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 45m,direct,business,12:20,16:05,"AED 2,510",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,18:35,22:25,"AED 2,514",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,14:15,18:05,"AED 2,514",2024-10-19
+TAP Portugal,CMN,PAR,7h 50m,1 stop,business,11:25,20:15,"AED 1,071",2024-10-19
+Iberia,CMN,PAR,4h 50m,1 stop,business,12:40,18:30,"AED 1,445",2024-10-19
+Air France,CMN,PAR,3h 05m,direct,business,10:20,14:25,"AED 3,200",2024-10-19
+Air France,CMN,PAR,3h 05m,direct,business,07:30,11:35,"AED 3,200",2024-10-19
+Air France,CMN,PAR,3h 00m,direct,business,18:20,22:20,"AED 3,200",2024-10-19
+Air France,CMN,PAR,3h 00m,direct,business,15:50,19:50,"AED 3,200",2024-10-19
+TAP Portugal,CMN,PAR,9h 10m,1 stop,business,11:25,21:35,"AED 1,070",2024-10-19
+Royal Air Maroc,CMN,ROM,3h 05m,direct,business,12:35,16:40,"AED 2,741",2024-10-19
+TAP Portugal,CMN,ROM,6h 05m,1 stop,business,17:00,00:05+1,"AED 1,066",2024-10-19
+TAP Portugal,CMN,ROM,6h 45m,1 stop,business,11:25,19:10,"AED 1,066",2024-10-19
+Iberia,CMN,ROM,6h 00m,1 stop,business,12:40,19:40,"AED 1,629",2024-10-19
+Iberia,CMN,ROM,10h 25m,1 stop,business,12:40,00:05+1,"AED 1,629",2024-10-19
+Air France,CMN,ROM,6h 20m,1 stop,business,15:50,23:10,"AED 2,780",2024-10-19
+Lufthansa,CMN,ROM,7h 05m,1 stop,business,01:15,09:20,"AED 2,880",2024-10-19
+Air France,CMN,ROM,7h 55m,1 stop,business,10:20,19:15,"AED 2,780",2024-10-19
+Air France,CMN,ROM,6h 15m,1 stop,business,10:20,17:35,"AED 3,510",2024-10-19
+Air France,CMN,ROM,10h 45m,1 stop,business,07:30,19:15,"AED 2,780",2024-10-19
+Air France,CMN,ROM,11h 50m,1 stop,business,10:20,23:10,"AED 2,780",2024-10-19
+Lufthansa,CMN,ROM,10h 20m,1 stop,business,01:15,12:35,"AED 2,880",2024-10-19
+Air France,CMN,ROM,7h 45m,1 stop,business,07:30,16:15,"AED 3,510",2024-10-19
+Etihad Airways,CMN,ROM,20h 40m,1 stop,business,09:25,07:05+1,"AED 15,780",2024-10-19
+Air France,CMN,ROM,9h 05m,1 stop,business,07:30,17:35,"AED 3,510",2024-10-19
+Royal Air Maroc,CMN,IST,4h 25m,direct,business,10:15,16:40,"AED 3,045",2024-10-19
+Air France,CMN,IST,9h 35m,1 stop,business,15:50,03:25+1,"AED 2,618",2024-10-19
+Turkish Airlines,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 4,081",2024-10-19
+Air France,CMN,IST,15h 05m,1 stop,business,10:20,03:25+1,"AED 2,624",2024-10-19
+Royal Air Maroc,CMN,IST,4h 40m,direct,business,17:00,23:40,"AED 6,383",2024-10-19
+Egypt Air,CMN,IST,10h 15m,1 stop,business,00:45,13:00,"AED 3,131",2024-10-19
+Lufthansa,CMN,IST,9h 50m,1 stop,business,01:15,13:05,"AED 3,320",2024-10-19
+Egypt Air,CMN,IST,11h 20m,1 stop,business,13:30,02:50+1,"AED 3,137",2024-10-19
+Egypt Air,CMN,IST,14h 50m,1 stop,business,00:45,17:35,"AED 3,158",2024-10-19
+SAUDIA,CMN,IST,13h 10m,1 stop,business,19:10,10:20+1,"AED 5,426",2024-10-19
+Egypt Air,CMN,IST,21h 30m,1 stop,business,13:30,13:00+1,"AED 3,179",2024-10-19
+SAUDIA,CMN,IST,15h 45m,1 stop,business,21:40,15:25+1,"AED 5,464",2024-10-19
+Egypt Air,CMN,IST,24h 05m,1 stop,business,00:45,02:50+1,"AED 3,193",2024-10-19
+Egypt Air,CMN,IST,26h 05m,1 stop,business,13:30,17:35+1,"AED 3,184",2024-10-19
+Lufthansa,CMN,IST,13h 45m,1 stop,business,01:15,17:00,"AED 4,460",2024-10-19
+Royal Air Maroc,CMN,PAR,2h 50m,direct,economy,12:20,15:10,AED 544,2024-11-05
+TAP Portugal,CMN,PAR,6h 10m,1 stop,economy,16:50,23:00,AED 406,2024-11-05
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,18:30,21:25,AED 565,2024-11-05
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,14:10,17:05,AED 565,2024-11-05
+Royal Air Maroc,CMN,PAR,3h 00m,direct,economy,13:25,16:25,AED 544,2024-11-05
+Royal Air Maroc,CMN,PAR,2h 55m,direct,economy,08:10,11:05,AED 585,2024-11-05
+Air France,CMN,PAR,3h 15m,direct,economy,08:10,11:25,AED 591,2024-11-05
+Air France,CMN,PAR,3h 10m,direct,economy,11:20,14:30,AED 706,2024-11-05
+Air France,CMN,PAR,3h 15m,direct,economy,16:35,19:50,AED 833,2024-11-05
+Air France,CMN,PAR,3h 15m,direct,economy,19:15,22:30,"AED 1,054",2024-11-05
+Iberia,CMN,PAR,6h 35m,1 stop,economy,13:35,20:10,AED 639,2024-11-05
+Iberia,CMN,PAR,8h 20m,1 stop,economy,13:35,21:55,AED 768,2024-11-05
+Lufthansa,CMN,PAR,7h 55m,1 stop,economy,14:20,22:15,AED 776,2024-11-05
+Iberia,CMN,PAR,10h 10m,1 stop,economy,13:35,23:45,AED 639,2024-11-05
+Lufthansa,CMN,PAR,8h 40m,2 stops,economy,14:20,23:00,"AED 1,036",2024-11-05
+Royal Air Maroc,CMN,ROM,3h 10m,direct,economy,13:00,16:10,AED 535,2024-11-05
+TAP Portugal,CMN,ROM,25h 55m,1 stop,economy,16:50,18:45+1,AED 402,2024-11-05
+TAP Portugal,CMN,ROM,7h 15m,1 stop,economy,16:50,00:05+1,AED 457,2024-11-05
+Iberia,CMN,ROM,6h 00m,1 stop,economy,13:35,19:35,AED 643,2024-11-05
+Air France,CMN,ROM,6h 30m,1 stop,economy,08:10,14:40,AED 833,2024-11-05
+Lufthansa,CMN,ROM,8h 20m,1 stop,economy,14:20,22:40,AED 728,2024-11-05
+Iberia,CMN,ROM,10h 30m,1 stop,economy,13:35,00:05+1,AED 643,2024-11-05
+Air France,CMN,ROM,6h 20m,1 stop,economy,11:20,17:40,"AED 1,466",2024-11-05
+KLM,CMN,ROM,11h 00m,2 stops,economy,08:10,19:10,AED 823,2024-11-05
+KLM,CMN,ROM,11h 00m,2 stops,economy,08:10,19:10,AED 833,2024-11-05
+Air France,CMN,ROM,8h 25m,1 stop,economy,11:20,19:45,"AED 1,137",2024-11-05
+Air France,CMN,ROM,11h 25m,1 stop,economy,11:20,22:45,AED 833,2024-11-05
+Lufthansa,CMN,ROM,8h 20m,2 stops,economy,14:20,22:40,"AED 1,030",2024-11-05
+KLM,CMN,ROM,11h 50m,2 stops,economy,11:20,23:10,AED 941,2024-11-05
+Air France,CMN,ROM,9h 30m,1 stop,economy,08:10,17:40,"AED 1,254",2024-11-05
+KLM,CMN,ROM,11h 50m,2 stops,economy,11:20,23:10,AED 951,2024-11-05
+Royal Air Maroc,CMN,IST,4h 30m,direct,economy,10:10,16:40,AED 980,2024-11-05
+Air France,CMN,IST,22h 30m,1 stop,economy,16:35,17:05+1,AED 833,2024-11-05
+Turkish Airlines,CMN,IST,4h 35m,direct,economy,16:25,23:00,"AED 1,680",2024-11-05
+Air France,CMN,IST,27h 45m,1 stop,economy,11:20,17:05+1,AED 833,2024-11-05
+Air France,CMN,IST,19h 50m,1 stop,economy,19:15,17:05+1,AED 970,2024-11-05
+Lufthansa,CMN,IST,30h 15m,1 stop,economy,14:20,22:35+1,"AED 1,147",2024-11-05
+Egypt Air,CMN,IST,11h 00m,1 stop,economy,13:50,02:50+1,"AED 1,491",2024-11-05
+Emirates,CMN,IST,20h 15m,1 stop,economy,15:05,13:20+1,"AED 1,942",2024-11-05
+Egypt Air,CMN,IST,21h 10m,1 stop,economy,13:50,13:00+1,"AED 1,529",2024-11-05
+SAUDIA,CMN,IST,17h 35m,1 stop,economy,14:55,10:30+1,"AED 1,940",2024-11-05
+SAUDIA,CMN,IST,20h 05m,1 stop,economy,16:45,14:50+1,"AED 1,940",2024-11-05
+Emirates,CMN,IST,21h 20m,1 stop,economy,15:05,14:25+1,"AED 2,010",2024-11-05
+Egypt Air,CMN,IST,26h 00m,1 stop,economy,13:50,17:50+1,"AED 1,519",2024-11-05
+KLM,CMN,IST,19h 40m,2 stops,economy,19:15,16:55+1,"AED 1,490",2024-11-05
+KLM,CMN,IST,19h 40m,2 stops,economy,19:15,16:55+1,"AED 1,490",2024-11-05
+TAP Portugal,CMN,PAR,6h 10m,1 stop,business,16:50,23:00,"AED 1,076",2024-11-05
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,08:10,11:05,"AED 2,369",2024-11-05
+Royal Air Maroc,CMN,PAR,3h 00m,direct,business,13:25,16:25,"AED 2,371",2024-11-05
+Royal Air Maroc,CMN,PAR,2h 50m,direct,business,12:20,15:10,"AED 2,524",2024-11-05
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,14:10,17:05,"AED 2,524",2024-11-05
+Royal Air Maroc,CMN,PAR,2h 55m,direct,business,18:30,21:25,"AED 2,524",2024-11-05
+Iberia,CMN,PAR,6h 35m,1 stop,business,13:35,20:10,"AED 1,475",2024-11-05
+Air France,CMN,PAR,3h 10m,direct,business,11:20,14:30,"AED 3,200",2024-11-05
+Air France,CMN,PAR,3h 15m,direct,business,08:10,11:25,"AED 3,200",2024-11-05
+Air France,CMN,PAR,3h 15m,direct,business,19:15,22:30,"AED 3,200",2024-11-05
+Air France,CMN,PAR,3h 15m,direct,business,16:35,19:50,"AED 3,200",2024-11-05
+Iberia,CMN,PAR,8h 20m,1 stop,business,13:35,21:55,"AED 1,475",2024-11-05
+TAP Portugal,CMN,PAR,17h 20m,1 stop,business,16:50,10:10+1,"AED 1,087",2024-11-05
+TAP Portugal,CMN,PAR,18h 55m,1 stop,business,16:50,11:45+1,"AED 1,092",2024-11-05
+TAP Portugal,CMN,PAR,21h 40m,1 stop,business,16:50,14:30+1,"AED 1,093",2024-11-05
+TAP Portugal,CMN,ROM,7h 15m,1 stop,business,16:50,00:05+1,AED 992,2024-11-05
+Royal Air Maroc,CMN,ROM,3h 10m,direct,business,13:00,16:10,"AED 2,567",2024-11-05
+Iberia,CMN,ROM,6h 00m,1 stop,business,13:35,19:35,"AED 1,597",2024-11-05
+TAP Portugal,CMN,ROM,18h 35m,1 stop,business,16:50,11:25+1,"AED 1,009",2024-11-05
+Lufthansa,CMN,ROM,8h 20m,1 stop,business,14:20,22:40,"AED 1,666",2024-11-05
+Iberia,CMN,ROM,10h 30m,1 stop,business,13:35,00:05+1,"AED 1,597",2024-11-05
+Air France,CMN,ROM,6h 30m,1 stop,business,08:10,14:40,"AED 2,766",2024-11-05
+Air France,CMN,ROM,6h 20m,1 stop,business,11:20,17:40,"AED 3,492",2024-11-05
+Air France,CMN,ROM,8h 25m,1 stop,business,11:20,19:45,"AED 3,492",2024-11-05
+Air France,CMN,ROM,11h 25m,1 stop,business,11:20,22:45,"AED 2,766",2024-11-05
+Air France,CMN,ROM,11h 35m,1 stop,business,08:10,19:45,"AED 2,766",2024-11-05
+Air France,CMN,ROM,9h 30m,1 stop,business,08:10,17:40,"AED 3,492",2024-11-05
+Royal Air Maroc,CMN,ROM,8h 35m,1 stop,business,14:10,22:45,"AED 3,841",2024-11-05
+KLM,CMN,ROM,11h 00m,2 stops,business,08:10,19:10,"AED 3,136",2024-11-05
+KLM,CMN,ROM,11h 00m,2 stops,business,08:10,19:10,"AED 3,147",2024-11-05

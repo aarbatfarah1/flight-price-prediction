@@ -30,6 +30,7 @@ adults = sys.argv[4]
 children = sys.argv[5]
 premium = sys.argv[6]
 
+
 # Create the directory if it doesn't exist
 CSV_DIR = "flight_datasets"
 if not os.path.exists(CSV_DIR):

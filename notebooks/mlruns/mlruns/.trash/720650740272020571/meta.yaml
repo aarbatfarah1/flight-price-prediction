@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/720650740272020571
+creation_time: 1703878787485
+experiment_id: '720650740272020571'
+last_update_time: 1703878934642
+lifecycle_stage: deleted
+name: Flight price prediction tracking
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/385954286924491928/674e93aa5368431eabd23e4810c59c87/artifacts
+end_time: 1704034265365
+entry_point_name: ''
+experiment_id: '385954286924491928'
+lifecycle_stage: active
+run_id: 674e93aa5368431eabd23e4810c59c87
+run_name: Linear regression model
+run_uuid: 674e93aa5368431eabd23e4810c59c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704034253009
+status: 3
+tags: []
+user_id: Dell

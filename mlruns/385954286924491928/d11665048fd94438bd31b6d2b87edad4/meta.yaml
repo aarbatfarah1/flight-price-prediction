@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/385954286924491928/d11665048fd94438bd31b6d2b87edad4/artifacts
+end_time: 1704036128085
+entry_point_name: ''
+experiment_id: '385954286924491928'
+lifecycle_stage: active
+run_id: d11665048fd94438bd31b6d2b87edad4
+run_name: Random Forest Regressor Model
+run_uuid: d11665048fd94438bd31b6d2b87edad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704036120252
+status: 3
+tags: []
+user_id: Dell

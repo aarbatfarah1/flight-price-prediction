@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/514094643223700237/f247b7d436284c6ca953538f9cb443a4/artifacts
+end_time: 1704069204998
+entry_point_name: ''
+experiment_id: '514094643223700237'
+lifecycle_stage: active
+run_id: f247b7d436284c6ca953538f9cb443a4
+run_name: XGBoost Regressor Model
+run_uuid: f247b7d436284c6ca953538f9cb443a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704069192413
+status: 3
+tags: []
+user_id: Dell

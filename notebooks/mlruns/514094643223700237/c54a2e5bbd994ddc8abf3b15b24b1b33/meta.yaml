@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/514094643223700237/c54a2e5bbd994ddc8abf3b15b24b1b33/artifacts
+end_time: 1704069173164
+entry_point_name: ''
+experiment_id: '514094643223700237'
+lifecycle_stage: active
+run_id: c54a2e5bbd994ddc8abf3b15b24b1b33
+run_name: likeable-kit-566
+run_uuid: c54a2e5bbd994ddc8abf3b15b24b1b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704069172895
+status: 3
+tags: []
+user_id: Dell

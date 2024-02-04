@@ -30,3 +30,7 @@ The project leverages the following technologies:
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+2. **Build and Run Docker Compose:**
+   ```bash
+   docker-compose -f applications/docker-compose.yml up -d
+

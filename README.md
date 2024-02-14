@@ -20,9 +20,4 @@ The project leverages the following technologies:
 - `fastapi_app/`: FastAPI backend application.
 - `streamlit_app/`: Streamlit frontend application.
 
-### Running the Applications Locally
 
-#### Prerequisites
-- Docker installed on your machine.
-
-#### Steps
